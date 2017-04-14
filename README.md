@@ -1,15 +1,15 @@
 # mySandBoxes
 All in one place.
 
+https://github.com/hchiam/angularjsSandbox
+
 https://github.com/hchiam/myJavaSandbox
-
-https://github.com/hchiam/javascriptSandbox
-
-https://github.com/hchiam/pythonSandbox
 
 https://github.com/hchiam/jasonetteApps
 
-https://github.com/hchiam/angularjsSandbox
+https://github.com/hchiam/pythonSandbox
+
+https://github.com/hchiam/javascriptSandbox
 
 https://github.com/hchiam/jQuerySandbox
 
