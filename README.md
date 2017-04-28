@@ -1,5 +1,5 @@
 # mySandBoxes
-All in one place.
+Links all in one place.
 
 1. https://github.com/hchiam/embeddedWebApps
 1. https://github.com/hchiam/alexaSample
