@@ -1,5 +1,5 @@
 # learning
-Links all in one place.
+Links all in one place. Languages/libraries I'm practicing/learning. 
 
 1. https://github.com/hchiam/learning-kotlin
 1. https://github.com/hchiam/learning-reactjs
