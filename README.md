@@ -5,7 +5,7 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [React](https://github.com/hchiam/learning-reactjs)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
-1. https://github.com/hchiam/embeddedWebApps
+1. Example HTML5 web apps: [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [Angular](https://github.com/hchiam/learning-angularjs)
 1. [Java](https://github.com/hchiam/learning-java) practice
