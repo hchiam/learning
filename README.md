@@ -5,7 +5,7 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Vue](https://github.com/hchiam/learning-vue)
-1. [Heroku](https://github.com/hchiam/python-getting-started) or [here](https://github.com/hchiam/galeria)
+1. [Heroku](https://github.com/hchiam/python-getting-started) --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
 1. [React](https://github.com/hchiam/learning-reactjs)
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
 1. Example HTML5 web apps: [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
