@@ -1,6 +1,7 @@
 # learning
 Links all in one place. Languages/libraries I'm practicing/learning. 
 
+1. [Django](https://github.com/hchiam/learning-django)
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [Keras](https://github.com/hchiam/learning-keras)
