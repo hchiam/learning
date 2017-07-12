@@ -3,6 +3,7 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 
 1. [Django](https://github.com/hchiam/learning-django)
 1. [React](https://github.com/hchiam/learning-reactjs)
+1. [Machine Learning](https://github.com/hchiam/machineLearning)
 1. [SQL](https://github.com/hchiam/learning-sql)
 1. [Docker](https://github.com/hchiam/learning-docker)
 1. [C#](https://github.com/hchiam/learning-csharp)
