@@ -26,3 +26,4 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
+1. [Phaser](https://github.com/hchiam/phaserGame)
