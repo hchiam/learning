@@ -1,6 +1,7 @@
 # learning
 Links all in one place. Languages/libraries I'm practicing/learning. 
 
+1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [Django](https://github.com/hchiam/learning-django)
 1. [React](https://github.com/hchiam/learning-reactjs)
 1. [Machine Learning](https://github.com/hchiam/machineLearning)
@@ -24,7 +25,6 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. https://github.com/hchiam/webDevMEANStack
 1. [SASS](https://github.com/hchiam/learning-sass)
 1. [jQuery](https://github.com/hchiam/learning-jquery)
-1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 1. [Phaser](https://github.com/hchiam/phaserGame)
