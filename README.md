@@ -1,6 +1,7 @@
 # learning
 Links all in one place. Languages/libraries I'm practicing/learning. 
 
+1. [Google Assitant](https://github.com/hchiam/learning-google-assistant)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [Django](https://github.com/hchiam/learning-django)
 1. [React](https://github.com/hchiam/learning-reactjs)
