@@ -3,6 +3,7 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 
 1. [Google Voice Assitant](https://github.com/hchiam/learning-google-assistant)
 1. [Node](https://github.com/hchiam/learning-nodejs)
+1. [Feathers](https://github.com/hchiam/learning-feathers)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Django](https://github.com/hchiam/learning-django)
 1. [React](https://github.com/hchiam/learning-reactjs)
