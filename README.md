@@ -3,7 +3,9 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant)
 1. [Node](https://github.com/hchiam/learning-nodejs)
-1. API's: see my example: https://github.com/hchiam/timestamp-microservice-hchiam
+1. API examples: 
+      * https://github.com/hchiam/timestamp-microservice-hchiam 
+      * https://glitch.com/@hchiam 
 1. [Feathers](https://github.com/hchiam/learning-feathers)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Django](https://github.com/hchiam/learning-django)
