@@ -1,6 +1,7 @@
 # learning
 Links all in one place. Languages/libraries I'm practicing/learning. 
 
+1. [Vue](https://github.com/hchiam/learning-vue)
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. API examples: 
@@ -16,7 +17,6 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [Keras](https://github.com/hchiam/learning-keras)
-1. [Vue](https://github.com/hchiam/learning-vue)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
     * --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
     * https://github.com/hchiam/test-app
