@@ -3,6 +3,8 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 
 1. [Vue](https://github.com/hchiam/learning-vue)
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant)
+1. [React](https://github.com/hchiam/learning-reactjs)
+1. [Machine Learning](https://github.com/hchiam/machineLearning)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. API examples: 
       * https://github.com/hchiam/timestamp-microservice-hchiam 
@@ -10,8 +12,6 @@ Links all in one place. Languages/libraries I'm practicing/learning.
 1. [Feathers](https://github.com/hchiam/learning-feathers)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Django](https://github.com/hchiam/learning-django)
-1. [React](https://github.com/hchiam/learning-reactjs)
-1. [Machine Learning](https://github.com/hchiam/machineLearning)
 1. [SQL](https://github.com/hchiam/learning-sql)
 1. [Docker](https://github.com/hchiam/learning-docker)
 1. [C#](https://github.com/hchiam/learning-csharp)
