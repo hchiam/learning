@@ -1,5 +1,5 @@
 # learning
-Links all in one place. Languages/libraries I'm practicing/learning. 
+Links all in one place. Languages/libraries I'm practicing/learning: 
 
 1. [Vue](https://github.com/hchiam/learning-vue)
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and example app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
