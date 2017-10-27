@@ -2,7 +2,7 @@
 Links all in one place. Languages/libraries I'm practicing/learning. 
 
 1. [Vue](https://github.com/hchiam/learning-vue)
-1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant)
+1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and example app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [React](https://github.com/hchiam/learning-reactjs)
 1. [Machine Learning](https://github.com/hchiam/machineLearning)
 1. [Node](https://github.com/hchiam/learning-nodejs)
