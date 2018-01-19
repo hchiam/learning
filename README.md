@@ -3,6 +3,7 @@ Links all in one place. Languages/libraries I'm practicing/learning:
 
 1. [Vue](https://github.com/hchiam/learning-vue) with [Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and example app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
+1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial
 1. [React](https://github.com/hchiam/learning-reactjs)
 1. [Machine Learning](https://github.com/hchiam/machineLearning)
 1. [Node](https://github.com/hchiam/learning-nodejs)
