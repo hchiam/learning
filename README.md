@@ -4,6 +4,7 @@ Links all in one place. Languages/libraries I'm practicing/learning:
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it.
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [Tape](https://github.com/hchiam/learning-tape)
+1. [Travis CI](https://github.com/hchiam/travistest)
 1. [Vue](https://github.com/hchiam/learning-vue) with [Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and example app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [React](https://github.com/hchiam/learning-reactjs)
