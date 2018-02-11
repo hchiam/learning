@@ -1,5 +1,5 @@
 # Learning
-Links all in one place. Languages, libraries, and frameworks that I'm learning:
+Links to what I'm learning, all in one place. Languages, libraries, frameworks, and more:
 
 _______
 
