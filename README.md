@@ -16,7 +16,9 @@ _______
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it.
-1. [Machine Learning](https://github.com/hchiam/machineLearning)
+1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface).
+1. Experimental programming language [Please](https://github.com/hchiam/please) to make it easier to write code with speech recognition.
+1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage).
 1. Example HTML5 web apps/games: [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 1. API examples:
       * https://github.com/hchiam/sourcefetch-server#sourcefetch-server
