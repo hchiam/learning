@@ -1,6 +1,17 @@
 # Learning
 Links all in one place. Languages, libraries, and frameworks that I'm learning:
 
+_______
+
+[Projects - Mostly Final Stage](#projects---mostly-final-stage)
+
+[Templates to Get Started](#templates-to-get-started)
+
+[Notes/Tutorials (many are incomplete)](#notestutorials-many-are-incomplete)
+
+[Completely Incomplete](#completely-incomplete)
+_______
+
 ## Projects - Mostly Final Stage:
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
