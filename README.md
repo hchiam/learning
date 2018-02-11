@@ -1,18 +1,18 @@
 # Learning
-Links to what I'm learning, all in one place. Languages, libraries, frameworks, and more:
+Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
 _______
 
-[Projects - Mostly Final Stage](#projects---mostly-final-stage)
+[Projects](#projects)
 
-[Templates to Get Started](#templates-to-get-started)
+[Templates](#templates)
 
-[Notes/Tutorials (many are incomplete)](#notestutorials-many-are-incomplete)
+[Tutorials](#tutorials)
 
-[Completely Incomplete](#completely-incomplete)
+[To Start](#to-start)
 _______
 
-## Projects - Mostly Final Stage:
+## Projects:
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it
@@ -26,7 +26,7 @@ _______
       * (more backend stuff at: https://glitch.com/@hchiam)
 1. [Frontend demos](https://codepen.io/hchiam/)
 
-## Templates to Get Started:
+## Templates:
 
 1. [Travis CI](https://github.com/hchiam/travistest)
 1. [Tape](https://github.com/hchiam/learning-tape)
@@ -41,7 +41,7 @@ _______
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 
-## Notes/Tutorials (many are incomplete):
+## Tutorials:
 
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [TensorFlow](https://github.com/hchiam/TensorFlow-in-a-Nutshell)
@@ -56,7 +56,7 @@ _______
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 
-## Completely Incomplete:
+## To Start:
 
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
