@@ -1,7 +1,7 @@
 # Learning
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
-Click to show:
+Click to see:
 
 <details>
 <summary>Projects</summary>
