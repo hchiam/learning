@@ -1,8 +1,10 @@
 # Learning
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
+Click to show:
+
 <details>
-<summary>Projects:</summary>
+<summary>Projects</summary>
 
 # Projects:
 
@@ -21,7 +23,7 @@ Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 </details>
 
 <details>
-<summary>Templates:</summary>
+<summary>Templates</summary>
 
 # Templates:
 
@@ -44,7 +46,7 @@ Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 </details>
 
 <details>
-<summary>Tutorials:</summary>
+<summary>Tutorials</summary>
 
 # Tutorials:
 
@@ -64,7 +66,7 @@ Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 </details>
 
 <details>
-<summary>To Start:</summary>
+<summary>To Learn Later</summary>
 
 # To Start:
 
