@@ -1,18 +1,10 @@
 # Learning
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
-_______
+<details>
+<summary>Projects:</summary>
 
-[Projects](#projects)
-
-[Templates](#templates)
-
-[Tutorials](#tutorials)
-
-[To Start](#to-start)
-_______
-
-## Projects:
+# Projects:
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant app: [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it
@@ -26,7 +18,12 @@ _______
       * https://github.com/hchiam/timestamp-microservice-hchiam
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam)
 
-## Templates:
+</details>
+
+<details>
+<summary>Templates:</summary>
+
+# Templates:
 
 1. [Travis CI](https://github.com/hchiam/travistest)
 1. [Tape](https://github.com/hchiam/learning-tape)
@@ -44,7 +41,12 @@ _______
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 
-## Tutorials:
+</details>
+
+<details>
+<summary>Tutorials:</summary>
+
+# Tutorials:
 
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [TensorFlow](https://github.com/hchiam/TensorFlow-in-a-Nutshell)
@@ -59,7 +61,12 @@ _______
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 
-## To Start:
+</details>
+
+<details>
+<summary>To Start:</summary>
+
+# To Start:
 
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
@@ -68,3 +75,5 @@ _______
 1. [SASS](https://github.com/hchiam/learning-sass)
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
+
+</details>
