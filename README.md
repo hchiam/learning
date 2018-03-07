@@ -68,7 +68,7 @@ Click to see:
 <details>
 <summary>To Learn Later</summary>
 
-# To Start:
+# To Learn Later:
 
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
