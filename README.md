@@ -1,4 +1,7 @@
 # Learning
+
+[![HitCount](http://hits.dwyl.io/hchiam/learning.svg)](http://hits.dwyl.io/hchiam/learning)
+
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
 Click to see:
@@ -79,7 +82,3 @@ Click to see:
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 
 </details>
-
-<br>
-
-[![HitCount](http://hits.dwyl.io/hchiam/learning.svg)](http://hits.dwyl.io/hchiam/learning)
