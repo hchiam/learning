@@ -4,7 +4,7 @@
 
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
-You might find my [Projects](#projects) and [Templates](#templates) helpful for kickstarting your own learning.
+You might find my Projects and Templates helpful for kickstarting your own learning.
 
 Click to see:
 
