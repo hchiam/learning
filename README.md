@@ -84,3 +84,7 @@ Click to see:
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 
 </details>
+
+<br/>
+
+I'm also on [CodePen](https://codepen.io/hchiam/) and [Glitch.com](https://glitch.com/@hchiam)
