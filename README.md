@@ -14,7 +14,7 @@ Click to see:
 # Projects:
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
-1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it
+1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
 1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage)
