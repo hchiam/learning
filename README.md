@@ -33,6 +33,7 @@ Click to see:
 # Templates:
 
 1. [Travis CI](https://github.com/hchiam/travistest)
+1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Tape](https://github.com/hchiam/learning-tape)
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [Vue](https://github.com/hchiam/learning-vue)
