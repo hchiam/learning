@@ -1,7 +1,5 @@
 # Learning
 
-[![HitCount](http://hits.dwyl.io/hchiam/learning.svg)](http://hits.dwyl.io/hchiam/learning)
-
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
 You might find my Projects and Templates helpful for kickstarting your own learning.
