@@ -50,6 +50,7 @@ Click to see:
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [Flask](https://github.com/hchiam/learning-flask)
+1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script-my-custom-header) example for Google Docs
 
 </details>
 
