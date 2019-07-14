@@ -32,6 +32,7 @@ Click to see:
 # Templates:
 
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template)
+1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script-my-custom-header)
 1. [Travis CI](https://github.com/hchiam/travistest)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
