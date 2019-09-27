@@ -33,7 +33,7 @@ Click to see:
 
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template)
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
-1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script-my-custom-header)
+1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. [Travis CI](https://github.com/hchiam/travistest)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
@@ -52,7 +52,6 @@ Click to see:
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [Flask](https://github.com/hchiam/learning-flask)
-1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script-my-custom-header) example for Google Docs
 
 </details>
 
