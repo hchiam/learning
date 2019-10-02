@@ -63,7 +63,7 @@ Click to see:
 # Tutorials:
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
-1. [Web Accessibility](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
+1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [TensorFlow](https://github.com/hchiam/TensorFlow-in-a-Nutshell)
