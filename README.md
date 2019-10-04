@@ -2,7 +2,7 @@
 
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
-You might find my Projects and Templates helpful for kickstarting your own learning.
+You might find my [Projects](https://github.com/hchiam/learning/blob/master/README.md#projects) and [Templates](https://github.com/hchiam/learning/blob/master/README.md#templates) helpful for kickstarting your own learning.
 
 # Projects:
 
