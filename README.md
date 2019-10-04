@@ -4,12 +4,10 @@ Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
 You might find my Projects and Templates helpful for kickstarting your own learning.
 
-Click to see:
+# Projects:
 
 <details>
-<summary>Projects</summary>
-
-# Projects:
+<summary>Click to expand projects</summary>
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator).
@@ -26,10 +24,10 @@ Click to see:
 
 </details>
 
-<details>
-<summary>Templates</summary>
-
 # Templates:
+
+<details>
+<summary>Click to expand templates</summary>
 
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template)
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
@@ -57,10 +55,10 @@ Click to see:
 
 </details>
 
-<details>
-<summary>Tutorials</summary>
-
 # Tutorials:
+
+<details>
+<summary>Click to expand tutorials</summary>
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
@@ -80,10 +78,10 @@ Click to see:
 
 </details>
 
-<details>
-<summary>To Learn Later</summary>
-
 # To Learn Later:
+
+<details>
+<summary>Click to expand things to learn later</summary>
 
 1. [Figma (interactive demo)](https://www.figma.com/proto/UTTgyhTIfjDeV5r0MQg0vU/First-Figma-File?node-id=2%3A13&scaling=contain)
 1. [C#](https://github.com/hchiam/learning-csharp)
