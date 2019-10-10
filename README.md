@@ -66,7 +66,7 @@ You might find my [Projects](https://github.com/hchiam/learning/blob/master/READ
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [TensorFlow](https://github.com/hchiam/TensorFlow-in-a-Nutshell)
 1. [Node](https://github.com/hchiam/learning-nodejs)
-1. [React](https://github.com/hchiam/learning-reactjs)
+1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/chat-app-fcc-react-redux)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
