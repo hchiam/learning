@@ -1,5 +1,7 @@
 # Learning
 
+[![HitCount](http://hits.dwyl.com/hchiam/learning.svg)](http://hits.dwyl.com/hchiam/learning)
+
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
 You might find my [Projects](https://github.com/hchiam/learning/blob/master/README.md#projects) and [Templates](https://github.com/hchiam/learning/blob/master/README.md#templates) helpful for kickstarting your own learning.
