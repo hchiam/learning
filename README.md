@@ -65,9 +65,9 @@ You might find my [Projects](https://github.com/hchiam/learning/blob/master/READ
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
+1. [TensorFlow](https://github.com/hchiam/learning-tensorflow)
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
-1. [TensorFlow](https://github.com/hchiam/TensorFlow-in-a-Nutshell)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/chat-app-fcc-react-redux)
 1. [Alexa](https://github.com/hchiam/alexaSample)
