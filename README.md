@@ -4,12 +4,14 @@
 
 Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
 
-You might find my [Projects](https://github.com/hchiam/learning/blob/master/README.md#projects) and [Templates](https://github.com/hchiam/learning/blob/master/README.md#templates) helpful for kickstarting your own learning.
+You might find my Projects and Templates helpful for kickstarting your own learning.
 
-# Projects:
+Click to expand:
 
 <details>
-<summary>Click to expand projects</summary>
+<summary>Projects</summary>
+
+## Things that I've built or maintain
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator).
@@ -26,10 +28,10 @@ You might find my [Projects](https://github.com/hchiam/learning/blob/master/READ
 
 </details>
 
-# Templates:
-
 <details>
-<summary>Click to expand templates</summary>
+<summary>Templates</summary>
+
+## Repos and snippets to get started faster
 
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template)
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
@@ -58,10 +60,10 @@ You might find my [Projects](https://github.com/hchiam/learning/blob/master/READ
 
 </details>
 
-# Tutorials:
-
 <details>
-<summary>Click to expand tutorials</summary>
+<summary>Tutorials</summary>
+
+## Things I built while closely following tutorial instructions
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
@@ -82,10 +84,10 @@ You might find my [Projects](https://github.com/hchiam/learning/blob/master/READ
 
 </details>
 
-# To Learn Later:
-
 <details>
-<summary>Click to expand things to learn later</summary>
+<summary>To learn later</summary>
+
+## Thought about learning but didn't go too deep yet
 
 1. [Figma (interactive demo)](https://www.figma.com/proto/UTTgyhTIfjDeV5r0MQg0vU/First-Figma-File?node-id=2%3A13&scaling=contain)
 1. [C#](https://github.com/hchiam/learning-csharp)
