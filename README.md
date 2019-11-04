@@ -38,6 +38,7 @@ Click to expand:
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
+1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
 1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Travis CI](https://github.com/hchiam/travistest)
