@@ -68,7 +68,7 @@ Click to expand:
 ## Things I built while closely following tutorial instructions
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
-1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md)
+1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md), for example [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
 1. [TensorFlow](https://github.com/hchiam/learning-tensorflow)
