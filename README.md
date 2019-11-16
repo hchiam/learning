@@ -85,7 +85,6 @@ Click to expand:
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 1. [canvas](https://github.com/hchiam/learning-canvas)
-1. [WebGL](https://github.com/hchiam/learning-webgl)
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
 
@@ -104,6 +103,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [SASS](https://github.com/hchiam/learning-sass)
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
+1. [WebGL](https://github.com/hchiam/learning-webgl)
 
 </details>
 
