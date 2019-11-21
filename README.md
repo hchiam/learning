@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/hchiam/learning.svg)](http://hits.dwyl.com/hchiam/learning)
 
-Links to what I'm learning. Languages. Libraries. Frameworks. Etc.
+Links to what [I'm](https://hchiam.github.io) learning. Languages. Libraries. Frameworks. Etc.
 
 You might find my Projects and Templates helpful for kickstarting your own learning.
 
