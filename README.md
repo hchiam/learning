@@ -51,7 +51,7 @@ Click to expand:
      1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
      1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
      1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
-1. [Angular](https://github.com/hchiam/learning-angularjs)
+1. [AngularJS](https://github.com/hchiam/learning-angularjs)
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
