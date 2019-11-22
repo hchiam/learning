@@ -89,8 +89,7 @@ Click to expand:
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 1. [canvas](https://github.com/hchiam/learning-canvas)
-1. [Lodash](https://github.com/hchiam/learning-lodash)
-1. [Underscore.js](https://github.com/hchiam/learning-underscore)
+1. [Lodash](https://github.com/hchiam/learning-lodash) and [Underscore.js](https://github.com/hchiam/learning-underscore)
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
