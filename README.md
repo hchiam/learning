@@ -34,7 +34,7 @@ Click to expand:
 
 ## Repos and snippets to get started faster
 
-1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template)
+1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template) or [Firefox extension](https://github.com/hchiam/learning-firefox-extension)
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Lighthouse CI](https://github.com/hchiam/learning-lighthouse-ci)
