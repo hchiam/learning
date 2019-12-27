@@ -23,6 +23,7 @@ Click to expand:
 1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage)
 1. [CodePen.io Frontend demos](https://codepen.io/hchiam/)
 1. Example HTML5 web apps/games: [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
+1. [Local anonymous input interface](https://github.com/hchiam/anonymous-input) for personal teaching usage.
 1. API examples:
       * https://github.com/hchiam/sourcefetch-server#sourcefetch-server
       * https://github.com/hchiam/timestamp-microservice-hchiam
