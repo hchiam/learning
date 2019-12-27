@@ -68,7 +68,7 @@ Click to expand:
 <details>
 <summary>Tutorials</summary>
 
-## Things I built while closely following tutorial instructions
+## Things I tried to learn by closely following tutorial instructions
 
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
