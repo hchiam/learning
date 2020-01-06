@@ -45,7 +45,7 @@ Click to expand:
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
 1. [Electron](https://github.com/hchiam/electron-quick-start) for building desktop apps using web technologies (JS/HTML/CSS)
 1. [Web Components](https://github.com/hchiam/learning-web-components)
-1. [Travis CI](https://github.com/hchiam/travistest)
+1. [Travis CI](https://github.com/hchiam/travistest) and [Travis CI setup for Selenium](https://github.com/hchiam/selenium-travis)
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
