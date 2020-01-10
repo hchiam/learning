@@ -43,7 +43,7 @@ Click to expand:
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
-1. [Electron](https://github.com/hchiam/electron-quick-start) for building desktop apps using web technologies (JS/HTML/CSS)
+1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
 1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Travis CI](https://github.com/hchiam/travistest) and [Travis CI setup for Selenium](https://github.com/hchiam/selenium-travis)
 1. [Jest](https://github.com/hchiam/learning-jest)
