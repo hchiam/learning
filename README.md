@@ -78,6 +78,7 @@ Click to expand:
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
+1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [canvas](https://github.com/hchiam/learning-canvas)
 1. [Lodash](https://github.com/hchiam/learning-lodash) and [Underscore.js](https://github.com/hchiam/learning-underscore)
 1. [TensorFlow](https://github.com/hchiam/learning-tensorflow)
