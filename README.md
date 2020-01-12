@@ -14,21 +14,20 @@ Click to expand:
 ## Things that I've built or maintain
 
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) and my Google Assistant apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
+1. [Electron-powered desktop app `anonymous-input`](https://github.com/hchiam/anonymous-input) for personal teaching/educational use. Uses Electron.js, Travis CI, mocha, spectron, npm, yarn, ...
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator).
 1. An experimental [Firefox extension](https://github.com/hchiam/urlvoid-firefox-extension)
 1. [_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
-1. [Electron-powered desktop app `anonymous-input`](https://github.com/hchiam/anonymous-input) for teaching/educational use. Uses Electron.js, Travis CI, mocha, spectron, npm, yarn, ...
-1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
-1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage)
 1. [CodePen.io Frontend demos](https://codepen.io/hchiam/)
-1. Example HTML5 web apps/games: [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
-1. [Local anonymous input interface](https://github.com/hchiam/anonymous-input) for personal teaching usage.
+1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage)
+1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
       * https://github.com/hchiam/sourcefetch-server#sourcefetch-server
       * https://github.com/hchiam/timestamp-microservice-hchiam
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
+1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 
 </details>
 
