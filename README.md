@@ -112,6 +112,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Google Closure Library](https://github.com/hchiam/learning-google-closure-library) for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
+1. [CSS BEM](https://github.com/hchiam/learning-bem)
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
     * --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
