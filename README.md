@@ -44,7 +44,7 @@ Click to expand:
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
-1. [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning)
+1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
 1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Travis CI](https://github.com/hchiam/travistest)
      1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
