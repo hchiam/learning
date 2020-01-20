@@ -80,6 +80,7 @@ Click to expand:
 1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
+1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
