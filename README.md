@@ -36,6 +36,7 @@ Click to expand:
 
 ## Repos and snippets to get started faster
 
+1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template) or [Firefox extension](https://github.com/hchiam/learning-firefox-extension)
 1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
@@ -44,12 +45,13 @@ Click to expand:
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
-1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
-1. [Web Components](https://github.com/hchiam/learning-web-components)
+1. [JavaScript](https://github.com/hchiam/learning-js) practice
+1. [Python](https://github.com/hchiam/learning-python) practice
 1. [Travis CI](https://github.com/hchiam/travistest)
      1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
      1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
 1. [Jest](https://github.com/hchiam/learning-jest)
+1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Tape](https://github.com/hchiam/learning-tape)
@@ -61,8 +63,6 @@ Click to expand:
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
-1. [Python](https://github.com/hchiam/learning-python) practice
-1. [JavaScript](https://github.com/hchiam/learning-js) practice
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [Flask](https://github.com/hchiam/learning-flask)
@@ -74,27 +74,27 @@ Click to expand:
 
 ## Things I tried to learn by closely following tutorial instructions
 
+1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
+     1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
+     1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
-1. [Golang](https://github.com/hchiam/learn-golang)
-1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
 1. [service workers](https://github.com/hchiam/learning-service-workers)
+1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
+1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
-1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
 1. [mocha chai](https://github.com/hchiam/boilerplate-mochachai)
 1. [canvas](https://github.com/hchiam/learning-canvas)
 1. [Lodash](https://github.com/hchiam/learning-lodash) and [Underscore.js](https://github.com/hchiam/learning-underscore)
+1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
 1. [TensorFlow](https://github.com/hchiam/learning-tensorflow)
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example)
-1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
-     1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
-     1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
 1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
