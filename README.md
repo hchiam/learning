@@ -92,7 +92,9 @@ Click to expand:
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example)
-1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/chat-app-fcc-react-redux)
+1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
+     1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
+     1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
 1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
