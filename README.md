@@ -78,6 +78,7 @@ Click to expand:
      1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
      1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
      1. [React Native](https://github.com/hchiam/learning-react-native)
+     1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [service workers](https://github.com/hchiam/learning-service-workers)
