@@ -89,6 +89,7 @@ Click to expand:
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
 1. [mocha chai](https://github.com/hchiam/boilerplate-mochachai)
+1. [D3.js](https://github.com/hchiam/learning-d3)
 1. [canvas](https://github.com/hchiam/learning-canvas)
 1. [Lodash](https://github.com/hchiam/learning-lodash) and [Underscore.js](https://github.com/hchiam/learning-underscore)
 1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
