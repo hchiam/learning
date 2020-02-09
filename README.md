@@ -66,6 +66,7 @@ Click to expand:
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [Flask](https://github.com/hchiam/learning-flask)
+1. [surge](https://github.com/hchiam/learning-surge)
 
 </details>
 
@@ -120,6 +121,8 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Figma (interactive demo)](https://www.figma.com/proto/UTTgyhTIfjDeV5r0MQg0vU/First-Figma-File?node-id=2%3A13&scaling=contain)
 1. [Google Closure Library](https://github.com/hchiam/learning-google-closure-library) for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
+1. [cucumber](https://github.com/hchiam/learning-cucumber)
+1. [svelte](https://github.com/hchiam/learning-svelte)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
