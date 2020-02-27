@@ -84,6 +84,8 @@ Click to expand:
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 1. [yarn](https://github.com/hchiam/learning-yarn)
+1. [lazy load](https://github.com/hchiam/learning-lazy-load)
+1. [web video, image manipulation, and connecting video to CSS animations](https://github.com/hchiam/learning-web-video-and-image)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
