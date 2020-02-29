@@ -90,7 +90,7 @@ Click to expand:
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
-1. [svelte](https://github.com/hchiam/learning-svelte)
+1. [Svelte](https://github.com/hchiam/learning-svelte)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
