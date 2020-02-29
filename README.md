@@ -90,6 +90,7 @@ Click to expand:
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
+1. [svelte](https://github.com/hchiam/learning-svelte)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
@@ -124,7 +125,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 1. [Google Closure Library](https://github.com/hchiam/learning-google-closure-library) for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
-1. [svelte](https://github.com/hchiam/learning-svelte)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
