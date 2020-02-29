@@ -82,6 +82,7 @@ Click to expand:
      1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
+1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app).
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [lazy load](https://github.com/hchiam/learning-lazy-load)
@@ -121,7 +122,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
-1. [Figma (interactive demo)](https://www.figma.com/proto/UTTgyhTIfjDeV5r0MQg0vU/First-Figma-File?node-id=2%3A13&scaling=contain)
 1. [Google Closure Library](https://github.com/hchiam/learning-google-closure-library) for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [svelte](https://github.com/hchiam/learning-svelte)
