@@ -60,7 +60,7 @@ Click to expand:
      1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
      1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
      1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
-1. [AngularJS](https://github.com/hchiam/learning-angularjs)
+1. [AngularJS](https://github.com/hchiam/learning-angularjs) (not the modern Angular)
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
@@ -104,7 +104,7 @@ Click to expand:
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example)
-1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular)
+1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular) by following an [Angular 8 tutorial](https://github.com/hchiam/learning-angular8)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
