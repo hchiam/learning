@@ -42,6 +42,7 @@ Click to expand:
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Lighthouse CI](https://github.com/hchiam/learning-lighthouse-ci)
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
+1. [Azure DevOps](https://github.com/hchiam/learning-azure-devops)
 1. [surge](https://github.com/hchiam/learning-surge)
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts)
