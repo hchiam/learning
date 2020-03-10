@@ -93,6 +93,7 @@ Click to expand:
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
 1. [Svelte](https://github.com/hchiam/learning-svelte)
+1. [SASS/SCSS](https://github.com/hchiam/learning-sass)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
@@ -134,7 +135,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Heroku](https://github.com/hchiam/python-getting-started)
     * --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
     * https://github.com/hchiam/test-app
-1. [SASS](https://github.com/hchiam/learning-sass)
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 1. [WebGL](https://github.com/hchiam/learning-webgl)
