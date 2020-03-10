@@ -68,6 +68,7 @@ Click to expand:
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
 1. [Java](https://github.com/hchiam/learning-java) practice
 1. [jQuery](https://github.com/hchiam/learning-jquery)
+1. [TypeScript](https://github.com/hchiam/learning-typescript)
 1. [Flask](https://github.com/hchiam/learning-flask)
 
 </details>
