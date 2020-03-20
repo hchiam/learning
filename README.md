@@ -129,6 +129,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Google Closure Library](https://github.com/hchiam/learning-google-closure-library) for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
