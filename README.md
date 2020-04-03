@@ -47,6 +47,7 @@ Click to expand:
 1. [surge](https://github.com/hchiam/learning-surge)
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell)
+1. [UglifyJS](https://github.com/hchiam/learning-uglify)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
 1. [JavaScript](https://github.com/hchiam/learning-js) practice
 1. [Python](https://github.com/hchiam/learning-python) practice
