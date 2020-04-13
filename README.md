@@ -17,7 +17,7 @@ Click to expand:
 1. [Code Inspiration](https://github.com/hchiam/code-inspiration) to-do list web app that works offline (after your first visit).
 1. [Electron-powered desktop app `anonymous-input`](https://github.com/hchiam/anonymous-input) for personal teaching/educational use. Uses Electron.js, Travis CI, mocha, spectron, npm, yarn, ...
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
-1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [console-log-element](https://github.com/hchiam/console-log-element)
+1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element)
 1. [_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
