@@ -132,6 +132,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [Chrome DevTools](https://github.com/hchiam/learning-chrome-devtools)
 1. [Rust](https://github.com/hchiam/learning-rust)
 1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
