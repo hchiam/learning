@@ -132,6 +132,8 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state easier.
+1. [react-spring](https://github.com/hchiam/learning-react-spring) for fluid, interactive animations.
 1. [Chrome DevTools](https://github.com/hchiam/learning-chrome-devtools)
 1. [Helmet](https://github.com/hchiam/learning-helmet)
 1. [Rust](https://github.com/hchiam/learning-rust)
