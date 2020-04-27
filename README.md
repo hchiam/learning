@@ -80,6 +80,7 @@ Click to expand:
 
 ## Things I tried to learn by closely following tutorial instructions
 
+1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
      1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
      1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
@@ -95,7 +96,6 @@ Click to expand:
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
-1. [Svelte](https://github.com/hchiam/learning-svelte)
 1. [SASS/SCSS](https://github.com/hchiam/learning-sass)
 1. [Bootstrap 4 + SCSS](https://github.com/hchiam/learning-bootstrap)
 1. [Neumorphism](https://github.com/hchiam/learning-neumorphism)
