@@ -153,6 +153,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 1. [WebGL](https://github.com/hchiam/learning-webgl)
+1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
 
 </details>
 
