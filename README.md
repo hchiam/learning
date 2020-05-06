@@ -22,7 +22,7 @@ Click to expand:
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
 1. [CodePen.io Frontend demos](https://codepen.io/hchiam/)
-1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage)
+1. [Machine Learning](https://github.com/hchiam/machineLearning), including a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
       * https://github.com/hchiam/sourcefetch-server#sourcefetch-server
