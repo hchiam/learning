@@ -103,6 +103,7 @@ Click to expand:
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
+1. [Material Design Components for the Web](https://github.com/hchiam/learning-material-design-components) (CDN and NPM/Webpack setup)
 1. [mocha chai](https://github.com/hchiam/boilerplate-mochachai)
 1. [D3.js](https://github.com/hchiam/learning-d3)
 1. [canvas](https://github.com/hchiam/learning-canvas)
