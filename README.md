@@ -13,6 +13,7 @@ Click to expand:
 
 ## Things that I've built or maintain
 
+1. **_Coming soon: [Code Explorer](https://github.com/hchiam/code-explorer)_**
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Code Inspiration](https://github.com/hchiam/code-inspiration) to-do list web app that works offline (after your first visit).
 1. [Electron-powered desktop app `anonymous-input`](https://github.com/hchiam/anonymous-input) for personal teaching/educational use. Uses Electron.js, Travis CI, mocha, spectron, npm, yarn, ...
