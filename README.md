@@ -117,6 +117,7 @@ Click to expand:
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Vue with Firebase database](https://github.com/hchiam/vuejsfirebase) and [Glitch.com hosting](https://vue-js-firebase-database.glitch.me/)
 1. [Node](https://github.com/hchiam/learning-nodejs)
+1. [Polka](https://github.com/hchiam/learning-polka)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example)
 1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular) by following an [Angular 8 tutorial](https://github.com/hchiam/learning-angular8)
 1. [Alexa](https://github.com/hchiam/alexaSample)
