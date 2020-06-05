@@ -140,6 +140,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [snowpack](https://github.com/hchiam/learning-snowpack)
 1. [Framer](https://github.com/hchiam/learning-framer)
 1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state easier.
