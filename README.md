@@ -39,6 +39,7 @@ Click to expand:
 ## Repos and snippets to get started faster
 
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
+1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
 1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
 1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
    - or just use [my template repo `learning-template`](https://github.com/hchiam/learning-template) by clicking the green button that says "Use this template"
