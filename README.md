@@ -38,6 +38,7 @@ Click to expand:
 
 ## Repos and snippets to get started faster
 
+1. [Flying focus ring](https://github.com/hchiam/flying-focus)
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
 1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
