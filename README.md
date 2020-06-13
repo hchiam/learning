@@ -100,6 +100,7 @@ Click to expand:
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [lazy load](https://github.com/hchiam/learning-lazy-load)
 1. [web video, image manipulation, and connecting video to CSS animations](https://github.com/hchiam/learning-web-video-and-image)
+1. [ECMAScript browser modules](https://github.com/hchiam/learning-es-browser-modules) (using `import` in the browser)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [dependency-cruiser](https://github.com/hchiam/learning-dependency-cruiser)
 1. [cucumber](https://github.com/hchiam/learning-cucumber)
