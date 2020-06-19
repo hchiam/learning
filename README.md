@@ -94,6 +94,7 @@ Click to expand:
      1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
+1. [Bazel](https://github.com/hchiam/learning-bazel)
 1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).)
 1. [service workers](https://github.com/hchiam/learning-service-workers)
 1. [Webpack](https://github.com/hchiam/learning-webpack)
