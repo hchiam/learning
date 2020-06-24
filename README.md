@@ -101,6 +101,7 @@ Click to expand:
 1. [Webpack](https://github.com/hchiam/learning-webpack)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
+1. [ANNOY for ML nearest neighbours](https://github.com/hchiam/learning-annoy)
 1. [lazy load](https://github.com/hchiam/learning-lazy-load)
 1. [web video, image manipulation, and connecting video to CSS animations](https://github.com/hchiam/learning-web-video-and-image)
 1. [CODEOWNERS](https://github.com/hchiam/learning-codeowners) files
