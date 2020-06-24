@@ -19,15 +19,15 @@ Click to expand:
 1. [Electron-powered desktop app `anonymous-input`](https://github.com/hchiam/anonymous-input) for personal teaching/educational use. Uses Electron.js, Travis CI, mocha, spectron, npm, yarn, ...
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
 1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element)
-1. [_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
+1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
 1. [CodePen.io Frontend demos](https://codepen.io/hchiam/)
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
-      * https://github.com/hchiam/sourcefetch-server#sourcefetch-server
-      * https://github.com/hchiam/timestamp-microservice-hchiam
+   - https://github.com/hchiam/sourcefetch-server#sourcefetch-server
+   - https://github.com/hchiam/timestamp-microservice-hchiam
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 
@@ -59,17 +59,17 @@ Click to expand:
 1. [JavaScript](https://github.com/hchiam/learning-js) practice
 1. [Python](https://github.com/hchiam/learning-python) practice
 1. [Travis CI](https://github.com/hchiam/travistest)
-     1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
-     1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
+   1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
+   1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Tape](https://github.com/hchiam/learning-tape)
 1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Vue](https://github.com/hchiam/learning-vue)
-     1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
-     1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
-     1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
+   1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
+   1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
+   1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
 1. [AngularJS](https://github.com/hchiam/learning-angularjs) (not the modern Angular)
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
@@ -88,10 +88,10 @@ Click to expand:
 
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
-     1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
-     1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
-     1. [React Native](https://github.com/hchiam/learning-react-native)
-     1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
+   1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
+   1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
+   1. [React Native](https://github.com/hchiam/learning-react-native)
+   1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [Bazel](https://github.com/hchiam/learning-bazel)
@@ -166,8 +166,8 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Nuxt.js](https://github.com/hchiam/learning-nuxt)
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
-    * --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
-    * https://github.com/hchiam/test-app
+   - --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
+   - https://github.com/hchiam/test-app
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
 1. [WebGL](https://github.com/hchiam/learning-webgl) and [three.js](https://github.com/hchiam/learning-threejs)
