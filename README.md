@@ -138,6 +138,7 @@ Click to expand:
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 1. [HTML/HTML5](https://github.com/hchiam/learning-html)
+1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
 
