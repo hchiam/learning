@@ -136,7 +136,7 @@ Click to expand:
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
 1. [Django](https://github.com/hchiam/learning-django)
-1. [SQL](https://github.com/hchiam/learning-sql)
+1. [SQL](https://github.com/hchiam/learning-sql) and [Sequelize ORM for Node.js](https://github.com/hchiam/learning-sequelize)
 1. [Docker](https://github.com/hchiam/learning-docker)
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
