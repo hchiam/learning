@@ -156,7 +156,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Deno](https://github.com/hchiam/learning-deno)
 1. [snowpack](https://github.com/hchiam/learning-snowpack)
 1. [Framer](https://github.com/hchiam/learning-framer)
-1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state easier.
+1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state more easily.
 1. [react-spring](https://github.com/hchiam/learning-react-spring) for fluid, interactive animations.
 1. [Chrome DevTools](https://github.com/hchiam/learning-chrome-devtools)
 1. [Helmet](https://github.com/hchiam/learning-helmet)
