@@ -1,6 +1,4 @@
-# <a href="https://hchiam.github.io/?can-you-find-all-the-hidden-features?">
-  <img align="center" src="animation.svg" width="400" height="60" alt="Learning"/>
-</a>
+# [<img align="center" src="animation.svg" width="400" height="60" alt="Learning"/>](https://hchiam.github.io/?can-you-find-all-the-hidden-features?)
 
 [![HitCount](http://hits.dwyl.com/hchiam/learning.svg)](http://hits.dwyl.com/hchiam/learning)
 
