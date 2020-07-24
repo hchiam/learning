@@ -6,7 +6,7 @@ Links to what [I'm](https://hchiam.github.io/?can-you-find-all-the-hidden-featur
 
 You might find my Projects and Templates helpful for kickstarting your own learning[.](https://github.com/hchiam/learning-template)
 
-Click to expand:
+## Click to expand:
 
 <details>
 <summary>Projects</summary>
