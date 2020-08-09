@@ -117,6 +117,7 @@ You might find my Projects and Templates helpful for kickstarting your own learn
 1. [Bootstrap 4 + SCSS](https://github.com/hchiam/learning-bootstrap)
 1. [Neumorphism](https://github.com/hchiam/learning-neumorphism)
 1. [universal-tilt.js](https://github.com/hchiam/learning-universal-tilt)
+1. [AOS](https://github.com/hchiam/learning-aos) ("Animate On Scroll" library)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
