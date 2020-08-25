@@ -73,6 +73,7 @@ You might find my Projects and Templates helpful for kickstarting your own learn
    1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
    1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
 1. [AngularJS](https://github.com/hchiam/learning-angularjs) (not the modern Angular)
+1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
