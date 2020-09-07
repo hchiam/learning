@@ -105,6 +105,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Python ML web app](https://github.com/hchiam/python-ml-web-app) using [Streamlit](https://github.com/hchiam/learning-streamlit)
 1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).)
 1. [service workers](https://github.com/hchiam/learning-service-workers)
+1. [HTTPS server](https://github.com/hchiam/learning-https-server)
 1. [Webpack](https://github.com/hchiam/learning-webpack)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
