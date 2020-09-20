@@ -100,6 +100,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
    1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
    1. [Auth0](https://github.com/hchiam/learning-react-auth0)
    1. [React + Apollo + GraphQL](https://github.com/hchiam/learning-react-apollo)
+   1. [React + Firestore](https://github.com/hchiam/learning-firestore)
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [Bazel](https://github.com/hchiam/learning-bazel)
