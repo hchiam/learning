@@ -163,6 +163,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [semaphores](https://github.com/hchiam/learning-semaphores)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [Deno](https://github.com/hchiam/learning-deno)
