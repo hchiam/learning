@@ -96,6 +96,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
    1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
    1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
+   1. [React Router](https://github.com/hchiam/learning-react-router)
    1. [React Native](https://github.com/hchiam/learning-react-native)
    1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
    1. [Auth0](https://github.com/hchiam/learning-react-auth0)
