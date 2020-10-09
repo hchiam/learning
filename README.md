@@ -196,6 +196,12 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 </details>
 
+Or expand all by entering this into dev tools: 
+
+```js
+Array.from(document.querySelectorAll('#readme details')).map(d=>d.setAttribute('open', true))
+```
+
 <br/>
 
 I'm also on [CodePen.io](https://codepen.io/hchiam/) and [Glitch.com](https://glitch.com/@hchiam) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
