@@ -63,6 +63,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
 1. [JavaScript](https://github.com/hchiam/learning-js) practice
 1. [Python](https://github.com/hchiam/learning-python) practice
+1. [GitHub Actions](https://github.com/hchiam/learning-github-actions)
 1. [Travis CI](https://github.com/hchiam/travistest)
    1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
    1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
