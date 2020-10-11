@@ -155,6 +155,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 1. [HTML/HTML5](https://github.com/hchiam/learning-html)
+1. [HTTP status codes](https://github.com/hchiam/learning-http-status-codes)
 1. [CORS](https://github.com/hchiam/learning-cors)
 1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
