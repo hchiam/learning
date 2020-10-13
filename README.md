@@ -201,7 +201,9 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 You can expand all by running this in dev tools:
 
 ```js
-Array.from(document.querySelectorAll('#readme details')).map(d=>d.setAttribute('open', true))
+Array.from(document.querySelectorAll("#readme details")).map((d) =>
+  d.setAttribute("open", true)
+);
 ```
 
 <br/>
