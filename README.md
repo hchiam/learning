@@ -71,6 +71,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Tape](https://github.com/hchiam/learning-tape)
+1. [Custom VS Code (Visual Studio Code) linter](https://github.com/hchiam/custom-vscode-linter)
 1. [Web Components](https://github.com/hchiam/learning-web-components)
 1. [Vue](https://github.com/hchiam/learning-vue)
    1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
