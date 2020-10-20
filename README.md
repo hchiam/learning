@@ -116,6 +116,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Webpack](https://github.com/hchiam/learning-webpack)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
+1. [yargs](https://github.com/hchiam/learning-yargs)
 1. [ANNOY](https://github.com/hchiam/learning-annoy) for ML nearest neighbours of vectors
 1. [lazy load](https://github.com/hchiam/learning-lazy-load)
 1. [web video, image manipulation, and connecting video to CSS animations](https://github.com/hchiam/learning-web-video-and-image)
