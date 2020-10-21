@@ -34,8 +34,8 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
-   - https://github.com/hchiam/sourcefetch-server#sourcefetch-server
-   - https://github.com/hchiam/timestamp-microservice-hchiam
+   - <https://github.com/hchiam/sourcefetch-server#sourcefetch-server>
+   - <https://github.com/hchiam/timestamp-microservice-hchiam>
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 
@@ -99,8 +99,8 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
-   1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
-   1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
+   1. Small example of adding data to Redux state container: <https://github.com/hchiam/react-jexcel-redux>
+   1. Bigger example with Redux and more: <https://github.com/hchiam/chat-app-fcc-react-redux>
    1. [React Router](https://github.com/hchiam/learning-react-router)
    1. [React Native](https://github.com/hchiam/learning-react-native)
    1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
@@ -218,4 +218,4 @@ Array.from(document.querySelectorAll("#readme details")).map((d) =>
 
 I'm also on [CodePen.io](https://codepen.io/hchiam/) and [Glitch.com](https://glitch.com/@hchiam) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
 
-Auto-generated GitHub résumé: https://resume.github.io/?hchiam
+Auto-generated GitHub résumé: <https://resume.github.io/?hchiam>
