@@ -26,8 +26,11 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Code Explorer](https://github.com/hchiam/code-explorer)
 1. Voice User Interface named [LUI](https://github.com/hchiam/language-user-interface)
 1. [Experimental programming language](https://github.com/hchiam/please) to make it easier to write code with speech recognition
-1. [My personal CSS boilerplate](https://github.com/hchiam/css-boilerplate)
-1. [CodePen.io Frontend demos](https://codepen.io/hchiam/)
+1. Convenience code I use in [my CodePen.io Front-End demos](https://codepen.io/hchiam), such as:
+   - [my personal CSS boilerplate](https://github.com/hchiam/css-boilerplate)
+   - [codepen-full-page-link](https://github.com/hchiam/codepen-full-page-link)
+   - [a Chrome check message](https://github.com/hchiam/is-chrome)
+   - [copyToClipboard.js](https://github.com/hchiam/clipboard).
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
