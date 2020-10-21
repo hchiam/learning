@@ -31,6 +31,9 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
    - [codepen-full-page-link](https://github.com/hchiam/codepen-full-page-link)
    - [a Chrome check message](https://github.com/hchiam/is-chrome)
    - [copyToClipboard.js](https://github.com/hchiam/clipboard)
+   - [prevent-link-window-opener-attacks.js](https://cdn.jsdelivr.net/gh/hchiam/learning-js@master/prevent-link-window-opener-attacks.js)
+   - [flying focus ring](https://cdn.jsdelivr.net/gh/hchiam/flying-focus)
+   - [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
