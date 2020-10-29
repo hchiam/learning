@@ -206,7 +206,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [WebGL](https://github.com/hchiam/learning-webgl) and [three.js](https://github.com/hchiam/learning-threejs)
 1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
 1. Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree),
-   [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find)
+   [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree)
 
 </details>
 
