@@ -15,11 +15,11 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 
 ## Things that I've built or maintain
 
+1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
 1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element)
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
-1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. [deps](https://github.com/hchiam/deps), a CLI tool that generates a dependency graph (as an interactive SVG). Just give it a file/folder as a starting point.
 1. [Code Inspiration](https://github.com/hchiam/code-inspiration) to-do list web app that works offline (after your first visit).
 1. No fancy touchpad pen? [Draw by moving the mouse and hitting spacebar to toggle](https://github.com/hchiam/draw-with-mouse-and-spacebar).
