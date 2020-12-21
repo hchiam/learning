@@ -134,6 +134,7 @@ https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEdita
 1. [web video, image manipulation, and connecting video to CSS animations](https://github.com/hchiam/learning-web-video-and-image)
 1. [CODEOWNERS](https://github.com/hchiam/learning-codeowners) files
 1. [contributing.md](https://github.com/hchiam/learning-contributing.md) files
+1. [GitHub issue template](https://github.com/hchiam/learning-issue-template)
 1. [AVIF](https://github.com/hchiam/learning-avif) compressed image format
 1. [ECMAScript browser modules](https://github.com/hchiam/learning-es-browser-modules) (using `import` in the browser)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
