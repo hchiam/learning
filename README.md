@@ -173,6 +173,7 @@ https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEdita
 1. [HTML/HTML5](https://github.com/hchiam/learning-html)
 1. [HTTP status codes](https://github.com/hchiam/learning-http-status-codes)
 1. [CORS](https://github.com/hchiam/learning-cors)
+1. [localForage](https://github.com/hchiam/learning-localForage)
 1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
