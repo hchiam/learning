@@ -52,6 +52,7 @@ https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEdita
 
 ## Repos and snippets to get started faster
 
+1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub).
 1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
