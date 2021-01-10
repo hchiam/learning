@@ -97,6 +97,7 @@ https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEdita
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [TypeScript](https://github.com/hchiam/learning-typescript)
 1. [Flask](https://github.com/hchiam/learning-flask)
+1. [esbuild](https://github.com/hchiam/learning-esbuild)
 
 </details>
 
