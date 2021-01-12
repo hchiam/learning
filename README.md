@@ -66,7 +66,6 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. [Azure DevOps](https://github.com/hchiam/learning-azure-devops)
 1. [surge](https://github.com/hchiam/learning-surge)
-1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell)
 1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
 1. [UglifyJS](https://github.com/hchiam/learning-uglify)
@@ -128,6 +127,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [HTTPS server](https://github.com/hchiam/learning-https-server)
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
 1. [Webpack](https://github.com/hchiam/learning-webpack)
+1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [snowpack](https://github.com/hchiam/learning-snowpack)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
