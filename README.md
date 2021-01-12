@@ -128,6 +128,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [HTTPS server](https://github.com/hchiam/learning-https-server)
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
 1. [Webpack](https://github.com/hchiam/learning-webpack)
+1. [snowpack](https://github.com/hchiam/learning-snowpack)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
 1. [yargs](https://github.com/hchiam/learning-yargs)
@@ -193,7 +194,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [Deno](https://github.com/hchiam/learning-deno)
-1. [snowpack](https://github.com/hchiam/learning-snowpack)
 1. [Framer](https://github.com/hchiam/learning-framer)
 1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state more easily.
 1. [react-spring](https://github.com/hchiam/learning-react-spring) for fluid, interactive animations.
