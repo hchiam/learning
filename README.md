@@ -117,6 +117,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
    1. [React + Firestore](https://github.com/hchiam/learning-firestore)
    1. [React Hook Form](https://github.com/hchiam/learning-react-hook-form)
    1. [react-testing-library](https://github.com/hchiam/learning-react-testing-library)
+   1. [Next.js](https://github.com/hchiam/learning-nextjs)
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [axios](https://github.com/hchiam/learning-axios)
