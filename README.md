@@ -219,8 +219,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
 1. [AWS (Amazon Web Services) terms in plain English](https://github.com/hchiam/learning-aws-terms)
 1. [general software interview problem solving skills](https://github.com/hchiam/learning-interviews)
-1. Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree),
-   [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree)
+1. Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree), [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree), [LZW compression](https://github.com/hchiam/learning-lzw)
 
 </details>
 
