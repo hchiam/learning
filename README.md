@@ -36,6 +36,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
    - [flying focus ring](https://cdn.jsdelivr.net/gh/hchiam/flying-focus)
    - [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
    - [hchiam/draggable](https://github.com/hchiam/draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEditable.js)
+   - [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. API examples:
@@ -52,7 +53,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 ## Repos and snippets to get started faster
 
 1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub).
-1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
+1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
 1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
