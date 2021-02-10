@@ -130,7 +130,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
 1. [Webpack](https://github.com/hchiam/learning-webpack)
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
-1. [snowpack](https://github.com/hchiam/learning-snowpack)
+1. [snowpack](https://github.com/hchiam/learning-snowpack) and [create-snowpack-app](https://github.com/hchiam/learning-create-snowpack-app)
 1. [yarn](https://github.com/hchiam/learning-yarn)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
 1. [yargs](https://github.com/hchiam/learning-yargs)
