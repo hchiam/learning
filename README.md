@@ -121,6 +121,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
+1. [Firestore](https://github.com/hchiam/learning-firestore) and [Firebase Local Emulator Suite](https://github.com/hchiam/learning-firebase-local-emulator)
 1. [axios](https://github.com/hchiam/learning-axios)
 1. [Bazel](https://github.com/hchiam/learning-bazel)
 1. [Python ML web app](https://github.com/hchiam/python-ml-web-app) using [Streamlit](https://github.com/hchiam/learning-streamlit)
