@@ -67,7 +67,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. [Azure DevOps](https://github.com/hchiam/learning-azure-devops)
 1. [surge](https://github.com/hchiam/learning-surge)
-1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell)
+1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell) and [Zsh](https://github.com/hchiam/learning-zsh)
 1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
 1. [UglifyJS](https://github.com/hchiam/learning-uglify)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
