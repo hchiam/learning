@@ -10,7 +10,7 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 
 Or you can browse this README file.
 
-Or search for my GitHub repos that contain the word "learning":
+Or bookmark this search for my GitHub repos that contain the word "learning":
 
 <https://github.com/search?q=user%3Ahchiam+learning>
 
