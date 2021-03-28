@@ -8,6 +8,10 @@ You might find my Projects and Templates helpful for kickstarting your own learn
 
 Chances are, you can guess the URL of each repo: `https://github.com/hchiam/learning-...`
 
+Or you can browse this README file.
+
+Or search for my GitHub repos that contain the word "learning": <https://github.com/search?q=user%3Ahchiam+learning>
+
 ## Click to expand:
 
 <details>
