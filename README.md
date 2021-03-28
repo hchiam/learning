@@ -12,7 +12,7 @@ Or you can browse this README file.
 
 Or bookmark this search for my GitHub repos that contain the word "learning":
 
-<https://github.com/search?q=user%3Ahchiam+learning>
+<https://github.com/hchiam?tab=repositories&q=learning+>
 
 ## Click to expand:
 
