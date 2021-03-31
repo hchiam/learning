@@ -200,6 +200,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 
 ## Thought about learning but didn't go too deep yet
 
+1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [semaphores](https://github.com/hchiam/learning-semaphores)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
