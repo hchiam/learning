@@ -173,6 +173,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. [Polka](https://github.com/hchiam/learning-polka)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example) and [GitHub package](https://github.com/hchiam/learning-github-packages)
+1. [All Contributors GitHub App](https://github.com/hchiam/learning-allcontributors)
 1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular) by following an [Angular 8 tutorial](https://github.com/hchiam/learning-angular8)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
