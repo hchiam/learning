@@ -19,7 +19,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 <details>
 <summary>Projects</summary>
 
-## Things that I've built or maintain
+## Projects: things that I've built or maintain
 
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
@@ -56,7 +56,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 <details>
 <summary>Templates</summary>
 
-## Repos and snippets to get started faster
+## Templates: repos and snippets to get started faster
 
 1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub).
 1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
@@ -110,7 +110,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 <details>
 <summary>Tutorials</summary>
 
-## Things I tried to learn by closely following tutorial instructions
+## Tutorials: things I tried to learn by closely following tutorial instructions
 
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
@@ -199,7 +199,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 <details>
 <summary>To learn later</summary>
 
-## Thought about learning but didn't go too deep yet
+## To learn later: thought about learning but didn't go too deep yet
 
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
