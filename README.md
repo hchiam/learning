@@ -215,7 +215,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Rust](https://github.com/hchiam/learning-rust)
 1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
-1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js]( https://github.com/hchiam/learning-backbone).
+1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
