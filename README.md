@@ -77,7 +77,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
 1. [UglifyJS](https://github.com/hchiam/learning-uglify)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
-1. [JavaScript](https://github.com/hchiam/learning-js) practice
+1. [JavaScript](https://github.com/hchiam/learning-js) practice (and [bookmarklets](https://github.com/hchiam/learning-js/tree/master/bookmarklets) and [TotT](https://github.com/hchiam/learning-js/tree/master/TotT))
 1. [Python](https://github.com/hchiam/learning-python) practice
 1. [GitHub Actions](https://github.com/hchiam/learning-github-actions)
 1. Record automated tests with [Selenium IDE](https://github.com/hchiam/learning-selenium-ide) chrome extension, or the slightly-better [Katalon Recorder](https://github.com/hchiam/learning-katalon) chrome extension (which can also export code and other formats).
