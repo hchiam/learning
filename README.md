@@ -94,7 +94,6 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
    1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
    1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
    1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
-1. [AngularJS](https://github.com/hchiam/learning-angularjs) (not the modern Angular)
 1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
 1. [Keras](https://github.com/hchiam/learning-keras)
 1. [Phaser](https://github.com/hchiam/phaserGame)
@@ -125,6 +124,9 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
    1. [React Hook Form](https://github.com/hchiam/learning-react-hook-form)
    1. [react-testing-library](https://github.com/hchiam/learning-react-testing-library)
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
+1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
+1. [Polymer](https://github.com/hchiam/learning-polymer)
+1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli)
 1. [Firestore](https://github.com/hchiam/learning-firestore) and [Firebase Local Emulator Suite](https://github.com/hchiam/learning-firebase-local-emulator)
@@ -174,7 +176,6 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [Polka](https://github.com/hchiam/learning-polka)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example) and [GitHub package](https://github.com/hchiam/learning-github-packages)
 1. [All Contributors GitHub App](https://github.com/hchiam/learning-allcontributors)
-1. [Angular (not AngularJS)](https://github.com/hchiam/learning-angular) by following an [Angular 8 tutorial](https://github.com/hchiam/learning-angular8)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
@@ -215,7 +216,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Rust](https://github.com/hchiam/learning-rust)
 1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
-1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
@@ -239,7 +239,9 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 You can expand all by running this in dev tools:
 
 ```js
-Array.from(document.querySelectorAll("#readme details")).map((d) => d.setAttribute("open", true));
+Array.from(document.querySelectorAll("#readme details")).map((d) =>
+  d.setAttribute("open", true)
+);
 ```
 
 <br/>
