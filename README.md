@@ -45,6 +45,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
    - [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
+1. [HTML template generator](https://github.com/hchiam/html-template-generator)
 1. API examples:
    - <https://github.com/hchiam/sourcefetch-server#sourcefetch-server>
    - <https://github.com/hchiam/timestamp-microservice-hchiam>
