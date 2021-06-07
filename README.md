@@ -68,8 +68,9 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
    - or just use [my template repo `learning-template`](https://github.com/hchiam/learning-template) by clicking the green button that says "Use this template"
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template) or [Firefox add-on](https://github.com/hchiam/learning-firefox-extension)
-1. [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
-1. [TSLint](https://github.com/hchiam/learning-tslint)
+1. linter stuff like [`lint-staged`](https://github.com/hchiam/learning-lint-staged) to automatically include code style fixes in your commits
+   - [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
+   - [TSLint](https://github.com/hchiam/learning-tslint)
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Lighthouse CI](https://github.com/hchiam/learning-lighthouse-ci)
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
