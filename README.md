@@ -253,6 +253,6 @@ Array.from(document.querySelectorAll("#readme details")).map((d) =>
 
 <br/>
 
-I'm also on [CodePen.io](https://codepen.io/hchiam) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
+I'm also on [CodePen.io](https://codepen.io/hchiam) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [LeetCode.com](https://leetcode.com/hchiam/) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
 
 Auto-generated GitHub résumé: <https://resume.github.io/?hchiam>
