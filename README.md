@@ -107,6 +107,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [TypeScript](https://github.com/hchiam/learning-typescript)
 1. [Flask](https://github.com/hchiam/learning-flask)
 1. [esbuild](https://github.com/hchiam/learning-esbuild)
+1. [Google Map Widget](https://github.com/hchiam/learning-google-map-widget)
 
 </details>
 
