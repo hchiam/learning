@@ -136,7 +136,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [axios](https://github.com/hchiam/learning-axios)
 1. [Bazel](https://github.com/hchiam/learning-bazel)
 1. [Python ML web app](https://github.com/hchiam/python-ml-web-app) using [Streamlit](https://github.com/hchiam/learning-streamlit)
-1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).)
+1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).) For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea).
 1. [service workers](https://github.com/hchiam/learning-service-workers) and [WebWorkers](https://github.com/hchiam/learning-webworkers)
 1. [HTTPS server](https://github.com/hchiam/learning-https-server)
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
