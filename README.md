@@ -194,6 +194,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [localtunnel](https://github.com/hchiam/learning-localtunnel)
 1. [PWA + Bluetooth](https://github.com/hchiam/learning-pwa-bluetooth)
 1. [docsify](https://github.com/hchiam/learning-docsify)
+1. [GSAP (GreenSock Animation Package)](https://github.com/hchiam/learning-gsap)
 1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
