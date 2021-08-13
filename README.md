@@ -128,6 +128,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
    1. [react-testing-library](https://github.com/hchiam/learning-react-testing-library)
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
 1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
+1. [Alpine.js](https://github.com/hchiam/learning-alpine)
 1. [Polymer](https://github.com/hchiam/learning-polymer)
 1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
