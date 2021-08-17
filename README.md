@@ -126,6 +126,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
    1. [React + Firestore](https://github.com/hchiam/learning-firestore)
    1. [React Hook Form](https://github.com/hchiam/learning-react-hook-form)
    1. [react-testing-library](https://github.com/hchiam/learning-react-testing-library)
+   1. [React Error Boundaries](https://github.com/hchiam/learning-react-error-boundaries)
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
 1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
 1. [Alpine.js](https://github.com/hchiam/learning-alpine)
