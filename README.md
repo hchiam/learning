@@ -200,6 +200,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [PWA + Bluetooth](https://github.com/hchiam/learning-pwa-bluetooth)
 1. [docsify](https://github.com/hchiam/learning-docsify)
 1. [GSAP (GreenSock Animation Package)](https://github.com/hchiam/learning-gsap)
+1. [three.js](https://github.com/hchiam/learning-threejs)
 1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
@@ -238,7 +239,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
    - https://github.com/hchiam/test-app
 1. [Karma](https://github.com/hchiam/learning-karma)
 1. [Ruby on Rails](https://github.com/hchiam/learning-rubyOnRails)
-1. [WebGL](https://github.com/hchiam/learning-webgl) and [three.js](https://github.com/hchiam/learning-threejs)
+1. [WebGL](https://github.com/hchiam/learning-webgl)
 1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
 1. [Puppeteer](https://github.com/hchiam/learning-puppeteer)
 1. [Browsersync](https://github.com/hchiam/learning-browsersync)
