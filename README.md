@@ -20,6 +20,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 ## Projects: things that I've built or maintain
 
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
+1. A minimal [notepad](https://github.com/hchiam/notepad) in your browser (automatically restores, and works offline after your first visit).
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
 1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element)
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
