@@ -10,7 +10,7 @@ Or you can browse this README file.
 
 Or bookmark this search for my GitHub repos that contain the word "learning":
 
-<https://github.com/hchiam?tab=repositories&q=learning+>
+https://github.com/hchiam?tab=repositories&q=learning+
 
 ## Click to expand:
 
@@ -25,7 +25,7 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element)
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
-1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: <https://html-template-generator.surge.sh>
+1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: https://html-template-generator.surge.sh
 1. [random code tips](https://github.com/hchiam/random-code-tips)
 1. [deps](https://github.com/hchiam/deps), a CLI tool that generates a dependency graph (as an interactive SVG). Just give it a file/folder as a starting point.
 1. [Code Inspiration](https://github.com/hchiam/code-inspiration) to-do list web app that works offline (after your first visit).
@@ -48,8 +48,8 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. [HTML template generator](https://github.com/hchiam/html-template-generator)
 1. API examples:
-   - <https://github.com/hchiam/sourcefetch-server#sourcefetch-server>
-   - <https://github.com/hchiam/timestamp-microservice-hchiam>
+   - https://github.com/hchiam/sourcefetch-server#sourcefetch-server
+   - https://github.com/hchiam/timestamp-microservice-hchiam
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 
@@ -117,8 +117,8 @@ Or bookmark this search for my GitHub repos that contain the word "learning":
 
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
-   1. Small example of adding data to Redux state container: <https://github.com/hchiam/react-jexcel-redux>
-   1. Bigger example with Redux and more: <https://github.com/hchiam/chat-app-fcc-react-redux>
+   1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
+   1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
    1. [React Router](https://github.com/hchiam/learning-react-router)
    1. [React Native](https://github.com/hchiam/learning-react-native)
    1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
@@ -262,4 +262,4 @@ Array.from(document.querySelectorAll("#readme details")).map((d) =>
 
 I'm also on [CodePen.io](https://codepen.io/hchiam) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [LeetCode.com](https://leetcode.com/hchiam/) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
 
-Auto-generated GitHub résumé: <https://resume.github.io/?hchiam>
+Auto-generated GitHub résumé: https://resume.github.io/?hchiam
