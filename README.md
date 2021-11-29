@@ -136,6 +136,7 @@ https://github.com/hchiam?tab=repositories&q=learning+
 1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [Web Dev Bootcamp](https://github.com/hchiam/web-dev-bootcamp)
 1. [Web Accessibility (a11y)](https://github.com/hchiam/web-accessibility-course-notes/blob/master/README.md) (from [Google's Udacity course](https://www.udacity.com/course/web-accessibility--ud891)) and [`axe-cli`](https://github.com/hchiam/learning-axe-cli#learning-axe-cli) (and [even more a11y notes](https://github.com/hchiam/learning-a11y))
+1. [AutoML](https://github.com/hchiam/learning-automl) with AutoML Edge model exported from Vertex AI API of Google Cloud Platform.
 1. [Firestore](https://github.com/hchiam/learning-firestore) and [Firebase Local Emulator Suite](https://github.com/hchiam/learning-firebase-local-emulator)
 1. [axios](https://github.com/hchiam/learning-axios)
 1. [Bazel](https://github.com/hchiam/learning-bazel)
