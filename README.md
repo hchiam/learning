@@ -218,6 +218,8 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
 1. [Astro](https://github.com/hchiam/learning-astro)
 1. [Vite](https://github.com/hchiam/learning-vite)
+1. [Blitz](https://github.com/hchiam/learning-blitzjs)
+1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [semaphores](https://github.com/hchiam/learning-semaphores)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
