@@ -19,6 +19,7 @@ https://github.com/hchiam?tab=repositories&q=learning+
 
 ## Projects: things that I've built or maintain
 
+1. I contribute to [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug).
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. A minimal [notepad](https://github.com/hchiam/notepad) in your browser (automatically restores, and works offline after your first visit).
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
