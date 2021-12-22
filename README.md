@@ -62,6 +62,7 @@ https://github.com/hchiam?tab=repositories&q=learning+
 ## Templates: repos and snippets to get started faster
 
 1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub).
+1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
@@ -220,7 +221,6 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Astro](https://github.com/hchiam/learning-astro)
 1. [Vite](https://github.com/hchiam/learning-vite)
 1. [Blitz](https://github.com/hchiam/learning-blitzjs)
-1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [Bayes](https://github.com/hchiam/learning-bayes)
 1. [semaphores](https://github.com/hchiam/learning-semaphores)
