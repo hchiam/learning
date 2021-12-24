@@ -45,7 +45,7 @@ https://github.com/hchiam?tab=repositories&q=learning+
    - [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
    - [hchiam/draggable](https://github.com/hchiam/draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/draggable@master/makeElementDraggableAndEditable.js)
    - [morphing_button](https://github.com/hchiam/morphing_button)
-1. [Machine Learning](https://github.com/hchiam/machineLearning), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
+1. [Machine Learning](https://github.com/hchiam/machineLearning) examples and [other ML repos and notes](https://github.com/hchiam/learning-ml), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow)
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. [HTML template generator](https://github.com/hchiam/html-template-generator)
 1. API examples:
