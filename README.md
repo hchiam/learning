@@ -61,7 +61,7 @@ https://github.com/hchiam?tab=repositories&q=learning+
 
 ## Templates: repos and snippets to get started faster
 
-1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub).
+1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub). Like my [learning-template](https://github.com/hchiam/learning-template) or my [project-template](https://github.com/hchiam/project-template).
 1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
