@@ -222,6 +222,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Vite](https://github.com/hchiam/learning-vite)
 1. [Blitz](https://github.com/hchiam/learning-blitzjs)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
+1. [Combinations vs Permutations](https://github.com/hchiam/learning-combinations-vs-permutations)
 1. [Bayes](https://github.com/hchiam/learning-bayes)
 1. [semaphores](https://github.com/hchiam/learning-semaphores)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
