@@ -225,6 +225,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Combinations vs Permutations](https://github.com/hchiam/learning-combinations-vs-permutations)
 1. [Bayes](https://github.com/hchiam/learning-bayes)
 1. [semaphores](https://github.com/hchiam/learning-semaphores)
+1. [Elm](https://github.com/hchiam/learning-elm)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [Deno](https://github.com/hchiam/learning-deno)
