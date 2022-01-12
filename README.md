@@ -238,6 +238,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
+1. [octave](https://github.com/hchiam/learning-octave)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
 1. [Nuxt.js](https://github.com/hchiam/learning-nuxt)
