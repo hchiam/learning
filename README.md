@@ -217,6 +217,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 ## To learn later: thought about learning but didn't go too deep yet
 
 1. [VS Code productivity tips](https://www.youtube.com/watch?v=ifTF3ags0XI)
+1. [technical writing](https://github.com/hchiam/learning-tech-writing)
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
 1. [Astro](https://github.com/hchiam/learning-astro)
 1. [Vite](https://github.com/hchiam/learning-vite)
