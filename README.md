@@ -130,6 +130,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
    1. [React Error Boundaries](https://github.com/hchiam/learning-react-error-boundaries)
    1. [React Portals](https://github.com/hchiam/learning-react-portals)
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
+   1. [mantine.dev](https://github.com/hchiam/learning-mantine) React component library
 1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
 1. [Alpine.js](https://github.com/hchiam/learning-alpine)
 1. [Polymer](https://github.com/hchiam/learning-polymer)
