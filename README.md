@@ -25,6 +25,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: https://html-template-generator.surge.sh
+1. [`stylable-select`](https://github.com/hchiam/stylable-select)
 1. [random code tips](https://github.com/hchiam/random-code-tips)
 1. [deps](https://github.com/hchiam/deps), a CLI tool that generates a dependency graph (as an interactive SVG). Just give it a file/folder as a starting point.
 1. [Code Inspiration](https://github.com/hchiam/code-inspiration) to-do list web app that works offline (after your first visit).
