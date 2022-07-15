@@ -242,6 +242,7 @@ I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) a
 1. [Rust](https://github.com/hchiam/learning-rust)
 1. [Rome](https://github.com/hchiam/learning-rome)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
+1. [assembly](https://github.com/hchiam/learning-assembly)
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. [octave](https://github.com/hchiam/learning-octave)
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
