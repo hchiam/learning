@@ -210,6 +210,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [three.js](https://github.com/hchiam/learning-threejs)
 1. [jquery-i18next](https://github.com/hchiam/learning-jquery-i18next)
 1. [gzip](https://github.com/hchiam/learning-gzip)
+1. [GitHub Copilot](https://github.com/hchiam/learning-github-copilot) (uses OpenAI Codex)
 1. A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam/learning-front-end-frameworks), [Web Tooling & Automation](https://github.com/hchiam/learning-web-tooling-and-automation), [Offline Web Applications](https://github.com/hchiam/learning-offline-web-applications), and [JavaScript Design Patterns](https://github.com/hchiam/learning-js-design-patterns).
 
 I'm learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
