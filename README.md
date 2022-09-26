@@ -116,6 +116,8 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 
 ## Tutorials: things I tried to learn by closely following tutorial instructions
 
+1. [Qwik](https://github.com/hchiam/learning-qwik)
+1. [Mitosis](https://github.com/hchiam/learning-mitosis)
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
    1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
