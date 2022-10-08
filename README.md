@@ -60,54 +60,54 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 
 ## Templates: repos and snippets to get started faster
 
-1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub). Like my [learning-template](https://github.com/hchiam/learning-template) or my [project-template](https://github.com/hchiam/project-template).
-1. [open-props](https://github.com/hchiam/learning-open-props)
-1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
-1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
-1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
-1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
-1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
-   - or just use [my template repo `learning-template`](https://github.com/hchiam/learning-template) by clicking the green button that says "Use this template"
+1. [Azure DevOps](https://github.com/hchiam/learning-azure-devops)
+1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell) and [Zsh](https://github.com/hchiam/learning-zsh)
 1. [Chrome Extension](https://github.com/hchiam/chrome-extension-template) or [Firefox add-on](https://github.com/hchiam/learning-firefox-extension)
+1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
+1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub). Like my [learning-template](https://github.com/hchiam/learning-template) or my [project-template](https://github.com/hchiam/project-template).
+1. [Custom VS Code (Visual Studio Code) linter](https://github.com/hchiam/custom-vscode-linter)
+1. [Cypress](https://github.com/hchiam/learning-cypress)
+1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
+1. [esbuild](https://github.com/hchiam/learning-esbuild)
+1. [Flask](https://github.com/hchiam/learning-flask)
+1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
+1. [GitHub Actions](https://github.com/hchiam/learning-github-actions)
+1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
+1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
+1. [Google Map Widget](https://github.com/hchiam/learning-google-map-widget)
+1. [JavaScript](https://github.com/hchiam/learning-js) practice (and [bookmarklets](https://github.com/hchiam/learning-js/tree/master/bookmarklets) and [TotT](https://github.com/hchiam/learning-js/tree/master/TotT))
+1. [Jasonette](https://github.com/hchiam/jasonetteApps)
+1. [Java](https://github.com/hchiam/learning-java) practice
+1. [Jest](https://github.com/hchiam/learning-jest)
+1. [jQuery](https://github.com/hchiam/learning-jquery)
+1. [Keras](https://github.com/hchiam/learning-keras)
+1. [Lighthouse CI](https://github.com/hchiam/learning-lighthouse-ci)
 1. linter stuff like [`lint-staged`](https://github.com/hchiam/learning-lint-staged) to automatically include code style fixes in your commits
    - [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
    - [TSLint](https://github.com/hchiam/learning-tslint)
-1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
-1. [Lighthouse CI](https://github.com/hchiam/learning-lighthouse-ci)
-1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
-1. [Azure DevOps](https://github.com/hchiam/learning-azure-devops)
-1. [surge](https://github.com/hchiam/learning-surge)
-1. [Bash Scripts](https://github.com/hchiam/learning-bash-scripts) and [PowerShell](https://github.com/hchiam/learning-powershell) and [Zsh](https://github.com/hchiam/learning-zsh)
-1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
-1. [UglifyJS](https://github.com/hchiam/learning-uglify)
-1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
-1. [JavaScript](https://github.com/hchiam/learning-js) practice (and [bookmarklets](https://github.com/hchiam/learning-js/tree/master/bookmarklets) and [TotT](https://github.com/hchiam/learning-js/tree/master/TotT))
+1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
+1. [open-props](https://github.com/hchiam/learning-open-props)
+1. [Phaser](https://github.com/hchiam/phaserGame)
+1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Python](https://github.com/hchiam/learning-python) practice
-1. [GitHub Actions](https://github.com/hchiam/learning-github-actions)
+   1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
 1. Record automated tests with [Selenium IDE](https://github.com/hchiam/learning-selenium-ide) chrome extension, or the slightly-better [Katalon Recorder](https://github.com/hchiam/learning-katalon) chrome extension (which can also export code and other formats).
+1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
+1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
+1. [surge](https://github.com/hchiam/learning-surge)
+1. [Tape](https://github.com/hchiam/learning-tape)
 1. [Travis CI](https://github.com/hchiam/travistest)
    1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
    1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
-1. [Cypress](https://github.com/hchiam/learning-cypress)
-1. [Jest](https://github.com/hchiam/learning-jest)
-1. [Protractor](https://github.com/hchiam/learning-protractor)
-1. [Tape](https://github.com/hchiam/learning-tape)
-1. [Custom VS Code (Visual Studio Code) linter](https://github.com/hchiam/custom-vscode-linter)
-1. [Web Components](https://github.com/hchiam/learning-web-components)
+1. [TypeScript](https://github.com/hchiam/learning-typescript)
+1. [UglifyJS](https://github.com/hchiam/learning-uglify)
 1. [Vue](https://github.com/hchiam/learning-vue)
    1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
    1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
    1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
-1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
-1. [Keras](https://github.com/hchiam/learning-keras)
-1. [Phaser](https://github.com/hchiam/phaserGame)
-1. [Jasonette](https://github.com/hchiam/jasonetteApps)
-1. [Java](https://github.com/hchiam/learning-java) practice
-1. [jQuery](https://github.com/hchiam/learning-jquery)
-1. [TypeScript](https://github.com/hchiam/learning-typescript)
-1. [Flask](https://github.com/hchiam/learning-flask)
-1. [esbuild](https://github.com/hchiam/learning-esbuild)
-1. [Google Map Widget](https://github.com/hchiam/learning-google-map-widget)
+1. [Web Components](https://github.com/hchiam/learning-web-components)
+1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
+   - or just use [my template repo `learning-template`](https://github.com/hchiam/learning-template) by clicking the green button that says "Use this template"
 
 </details>
 
