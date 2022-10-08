@@ -1,6 +1,6 @@
-# [ <img align="center" src="animation.svg" width="100%" height="60px" alt="Learning"/> ](https://hchiam.github.io/?can-you-find-all-the-hidden-features?)
+# [ <img align="center" src="animation.svg" width="100%" height="60px" alt="Learning"/> ](https://hchiam.com)
 
-Links to what [I'm](https://hchiam.github.io/?can-you-find-all-the-hidden-features?) learning. Languages. Libraries. Frameworks. Etc.
+Links to what [I'm](https://hchiam.com) learning. Languages. Libraries. Frameworks. Etc.
 
 You might find my Projects and Templates helpful for kickstarting your own learning[.](https://github.com/hchiam/learning-template)
 
