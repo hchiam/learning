@@ -120,6 +120,7 @@ A bunch of Udacity courses like [Front End Frameworks](https://github.com/hchiam
 
 I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchiam) and [Udemy](https://www.udemy.com/user/howardchiam/) and [LeetCode](https://leetcode.com/hchiam/) and more.
 
+1. [action-dependabot-auto-merge](https://github.com/hchiam/learning-action-dependabot-auto-merge)
 1. [Alexa](https://github.com/hchiam/alexaSample)
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [Alpine.js](https://github.com/hchiam/learning-alpine)
