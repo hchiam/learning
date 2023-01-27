@@ -201,6 +201,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
    1. [React Portals](https://github.com/hchiam/learning-react-portals)
    1. [Next.js](https://github.com/hchiam/learning-nextjs)
    1. [mantine.dev](https://github.com/hchiam/learning-mantine) React component library
+1. [reCAPTCHA](https://github.com/hchiam/learning-recaptcha)
 1. [service workers](https://github.com/hchiam/learning-service-workers) and [WebWorkers](https://github.com/hchiam/learning-webworkers)
 1. [snowpack](https://github.com/hchiam/learning-snowpack) and [create-snowpack-app](https://github.com/hchiam/learning-create-snowpack-app)
 1. [Solid.js](https://github.com/hchiam/learning-solid)
