@@ -178,6 +178,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Neumorphism](https://github.com/hchiam/learning-neumorphism)
 1. [Node](https://github.com/hchiam/learning-nodejs)
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example) and [GitHub package](https://github.com/hchiam/learning-github-packages)
+1. [nx](https://github.com/hchiam/learning-nx)
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
 1. [Polka](https://github.com/hchiam/learning-polka)
 1. [Polymer](https://github.com/hchiam/learning-polymer)
@@ -206,7 +207,6 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [snowpack](https://github.com/hchiam/learning-snowpack) and [create-snowpack-app](https://github.com/hchiam/learning-create-snowpack-app)
 1. [Solid.js](https://github.com/hchiam/learning-solid)
 1. [Svelte](https://github.com/hchiam/learning-svelte) and [Sapper](https://github.com/hchiam/learning-sapper)
-
 1. [SASS/SCSS](https://github.com/hchiam/learning-sass)
 1. [SQL](https://github.com/hchiam/learning-sql) and [Sequelize ORM for Node.js](https://github.com/hchiam/learning-sequelize)
 1. [TensorFlow](https://github.com/hchiam/learning-tensorflow)
