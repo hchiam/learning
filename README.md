@@ -125,7 +125,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [ally.js](https://github.com/hchiam/learning-allyjs#learning-allyjs)
 1. [Alpine.js](https://github.com/hchiam/learning-alpine)
 1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
-1. [ANNOY](https://github.com/hchiam/learning-annoy) for ML nearest neighbours of vectors
+1. [ANNOY](https://github.com/hchiam/learning-annoy) for [ML](https://github.com/hchiam/learning-ml) nearest neighbours of vectors
 1. [AOS](https://github.com/hchiam/learning-aos) ("Animate On Scroll" library)
 1. [AutoML](https://github.com/hchiam/learning-automl) with AutoML Edge model exported from Vertex AI API of Google Cloud Platform.
 1. [AVIF](https://github.com/hchiam/learning-avif) compressed image format
@@ -259,6 +259,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [the OSI model](https://github.com/hchiam/learning-osi)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
+1. [prompt engineering](https://github.com/hchiam/learning-prompt-eng) - for [ML](https://github.com/hchiam/learning-ml)
 1. [Puppeteer](https://github.com/hchiam/learning-puppeteer)
 1. [PyCharm](https://github.com/hchiam/learning-pycharm)
 1. [react-spring](https://github.com/hchiam/learning-react-spring) for fluid, interactive animations.
