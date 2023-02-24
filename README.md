@@ -254,6 +254,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state more easily.
 1. [general software interview problem solving skills](https://github.com/hchiam/learning-interviews)
 1. [Karma](https://github.com/hchiam/learning-karma)
+1. [Kubernetes](https://github.com/hchiam/learning-kubernetes)
 1. [Nuxt.js](https://github.com/hchiam/learning-nuxt)
 1. [octave](https://github.com/hchiam/learning-octave)
 1. [the OSI model](https://github.com/hchiam/learning-osi)
