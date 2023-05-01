@@ -261,6 +261,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [the OSI model](https://github.com/hchiam/learning-osi)
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
+1. [Plotly.js](https://github.com/hchiam/learning-plotly)
 1. [prompt engineering](https://github.com/hchiam/learning-prompt-eng) - for [ML](https://github.com/hchiam/learning-ml)
 1. [Puppeteer](https://github.com/hchiam/learning-puppeteer)
 1. [PyCharm](https://github.com/hchiam/learning-pycharm)
