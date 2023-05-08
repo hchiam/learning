@@ -248,6 +248,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Framer](https://github.com/hchiam/learning-framer)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
+1. connecting JS to [hardware](https://github.com/hchiam/learning-js-hardware/tree/main)
 1. [Helmet](https://github.com/hchiam/learning-helmet)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
    - --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
