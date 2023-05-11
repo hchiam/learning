@@ -279,6 +279,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [VS Code productivity tips](https://www.youtube.com/watch?v=ifTF3ags0XI)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
 1. [WebGL](https://github.com/hchiam/learning-webgl)
+1. [WebGPU](https://github.com/hchiam/learning-webgpu)
 
 </details>
 
