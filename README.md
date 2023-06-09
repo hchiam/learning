@@ -133,6 +133,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Bazel](https://github.com/hchiam/learning-bazel)
 1. [Bootstrap 4 + SCSS](https://github.com/hchiam/learning-bootstrap)
 1. [canvas](https://github.com/hchiam/learning-canvas)
+1. [CKEditor 5](https://github.com/hchiam/learning-ckeditor5)
 1. [CODEOWNERS](https://github.com/hchiam/learning-codeowners) files
    1. [All Contributors GitHub App](https://github.com/hchiam/learning-allcontributors)
 1. [contributing.md](https://github.com/hchiam/learning-contributing.md) files
