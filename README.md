@@ -75,6 +75,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Google Map Widget](https://github.com/hchiam/learning-google-map-widget)
+1. [gpt4all](https://github.com/hchiam/learning-gpt4all)
 1. [JavaScript](https://github.com/hchiam/learning-js) practice (and [bookmarklets](https://github.com/hchiam/learning-js/tree/master/bookmarklets) and [TotT](https://github.com/hchiam/learning-js/tree/master/TotT))
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
 1. [Java](https://github.com/hchiam/learning-java) practice
