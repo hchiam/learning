@@ -148,7 +148,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [docsify](https://github.com/hchiam/learning-docsify)
 1. [ECMAScript browser modules](https://github.com/hchiam/learning-es-browser-modules) (using `import` in the browser)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
-1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/master/README.md#a-quick-summary-of-other-design-tools).) For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea).
+1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/main/README.md#a-quick-summary-of-other-design-tools).) For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea).
 1. [Firestore](https://github.com/hchiam/learning-firestore) and [Firebase Local Emulator Suite](https://github.com/hchiam/learning-firebase-local-emulator)
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
