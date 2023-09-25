@@ -238,6 +238,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Bayes](https://github.com/hchiam/learning-bayes)
 1. [Blitz](https://github.com/hchiam/learning-blitzjs)
 1. [Browsersync](https://github.com/hchiam/learning-browsersync)
+1. [bun](https://github.com/hchiam/learning-bun)
 1. [C#](https://github.com/hchiam/learning-csharp)
 1. [Chrome DevTools](https://github.com/hchiam/learning-chrome-devtools)
 1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
