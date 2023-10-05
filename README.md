@@ -244,11 +244,12 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Cirq](https://github.com/hchiam/learning-cirq) for quantum computer circuits
 1. [Combinations vs Permutations](https://github.com/hchiam/learning-combinations-vs-permutations)
 1. [CSS BEM](https://github.com/hchiam/learning-bem)
-1. Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree), [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree), [LZW compression](https://github.com/hchiam/learning-lzw), [combinations vs permutations with/without repeats](https://github.com/hchiam/learning-combinations-vs-permutations)
+1. Data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree), [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree), [LZW compression](https://github.com/hchiam/learning-lzw), [combinations vs permutations with/without repeats](https://github.com/hchiam/learning-combinations-vs-permutations)
 1. [Deno](https://github.com/hchiam/learning-deno)
 1. [Elm](https://github.com/hchiam/learning-elm)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [Framer](https://github.com/hchiam/learning-framer)
+3. [Google Charts](https://github.com/hchiam/learning-google-charts)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
 1. connecting JS to [hardware](https://github.com/hchiam/learning-js-hardware/tree/main)
