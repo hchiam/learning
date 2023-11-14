@@ -167,6 +167,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
 1. [jquery-i18next](https://github.com/hchiam/learning-jquery-i18next)
 1. [Kotlin](https://github.com/hchiam/learning-kotlin)
+1. [LangChain](https://github.com/hchiam/learning-langchain)
 1. [lazy load](https://github.com/hchiam/learning-lazy-load)
 1. [Less](https://github.com/hchiam/learning-less)
 1. [Lit.js](https://github.com/hchiam/learning-lit)
