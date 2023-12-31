@@ -79,6 +79,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [JavaScript](https://github.com/hchiam/learning-js) practice (and [bookmarklets](https://github.com/hchiam/learning-js/tree/master/bookmarklets) and [TotT](https://github.com/hchiam/learning-js/tree/master/TotT))
 1. [Jasonette](https://github.com/hchiam/jasonetteApps)
 1. [Java](https://github.com/hchiam/learning-java) practice
+1. [Jazzer (and Jazzer.js)](https://github.com/hchiam/learning-jazzer) for fuzzing / fuzz testing
 1. [Jest](https://github.com/hchiam/learning-jest)
 1. [jQuery](https://github.com/hchiam/learning-jquery)
 1. [Keras](https://github.com/hchiam/learning-keras)
