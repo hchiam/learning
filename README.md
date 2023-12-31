@@ -292,9 +292,11 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 You can expand all by running this in dev tools:
 
 ```js
-Array.from(document.querySelectorAll("#readme details")).map((d) =>
-  d.setAttribute("open", true)
-);
+javascript: (function () {
+  Array.from(document.querySelectorAll(".markdown-body details")).map((d) =>
+    d.setAttribute("open", true)
+  );
+})();
 ```
 
 <br/>
