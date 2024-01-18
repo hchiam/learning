@@ -104,6 +104,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
    1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
 1. [TypeScript](https://github.com/hchiam/learning-typescript)
 1. [UglifyJS](https://github.com/hchiam/learning-uglify)
+1. [VB (Visual Basic)](https://github.com/hchiam/learning-vb)
 1. [Vue](https://github.com/hchiam/learning-vue)
    1. [vue-test-utils](https://github.com/hchiam/vue-test-utils-getting-started) with [Jest](https://github.com/hchiam/vue-test-utils-jest-example) and with [Tape](https://github.com/hchiam/tape-vue-example)
    1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
