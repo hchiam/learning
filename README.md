@@ -87,6 +87,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. linter stuff like [`lint-staged`](https://github.com/hchiam/learning-lint-staged) to automatically include code style fixes in your commits
    - [ESLint with Google JS Style Guide Rules](https://github.com/hchiam/learning-eslint-google)
    - [TSLint](https://github.com/hchiam/learning-tslint)
+1. [localGPT](https://github.com/hchiam/learning-localGPT)
 1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
 1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [Phaser](https://github.com/hchiam/phaserGame)
