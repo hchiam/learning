@@ -100,6 +100,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [surge](https://github.com/hchiam/learning-surge)
 1. [Tape](https://github.com/hchiam/learning-tape)
 1. [Teachable Machine](https://github.com/hchiam/learning-teachablemachine) to quickly prototype an ML model (gather, train, export)
+1. [TinyLlama](https://github.com/hchiam/learning-TinyLlama)
 1. [Travis CI](https://github.com/hchiam/travistest)
    1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
    1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
