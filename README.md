@@ -91,6 +91,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Okta sign-in widget](https://github.com/hchiam/learning-okta-signin-widget) (also serves as a minimal node/express app with its [server.js](https://github.com/hchiam/learning-okta-signin-widget/blob/master/server.js))
 1. [open-props](https://github.com/hchiam/learning-open-props)
 1. [Phaser](https://github.com/hchiam/phaserGame)
+1. [prompt engineering](https://github.com/hchiam/learning-prompt-eng) - for [ML](https://github.com/hchiam/learning-ml)/LLMs
 1. [Protractor](https://github.com/hchiam/learning-protractor)
 1. [Python](https://github.com/hchiam/learning-python) practice
    1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
@@ -273,7 +274,6 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [P vs NP](https://github.com/hchiam/learning-p-vs-np)
 1. [Pattern Lab](https://github.com/hchiam/learning-pattern-lab)
 1. [Plotly.js](https://github.com/hchiam/learning-plotly)
-1. [prompt engineering](https://github.com/hchiam/learning-prompt-eng) - for [ML](https://github.com/hchiam/learning-ml)
 1. [Puppeteer](https://github.com/hchiam/learning-puppeteer)
 1. [PyCharm](https://github.com/hchiam/learning-pycharm)
 1. [react-spring](https://github.com/hchiam/learning-react-spring) for fluid, interactive animations.
