@@ -238,6 +238,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 
 ## To learn later: thought about learning but didn't go too deep yet
 
+1. [Aceternity](https://github.com/hchiam/learning-aceternity)
 1. [amplication](https://github.com/hchiam/learning-amplication) nocode to generate website FE+BE
 1. [assembly](https://github.com/hchiam/learning-assembly)
 1. [Astro](https://github.com/hchiam/learning-astro)
