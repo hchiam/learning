@@ -187,6 +187,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [MongoDB](https://github.com/hchiam/learning-mongodb)
 1. [Neumorphism](https://github.com/hchiam/learning-neumorphism)
 1. [Node](https://github.com/hchiam/learning-nodejs)
+1. [Ollama](https://github.com/hchiam/learning-ollama) to run LLMs locally/privately on your computer.
 1. Publishing your own [NPM package](https://github.com/hchiam/npm-package-example) and [GitHub package](https://github.com/hchiam/learning-github-packages)
 1. [nx](https://github.com/hchiam/learning-nx)
 1. [Parcel.js](https://github.com/hchiam/learning-parcel) web app bundler
