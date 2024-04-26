@@ -241,6 +241,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 
 1. [Aceternity](https://github.com/hchiam/learning-aceternity)
 1. [amplication](https://github.com/hchiam/learning-amplication) nocode to generate website FE+BE
+1. [Apache ECharts](https://github.com/hchiam/learning-apache-echarts)
 1. [assembly](https://github.com/hchiam/learning-assembly)
 1. [Astro](https://github.com/hchiam/learning-astro)
 1. [AWS (Amazon Web Services) terms in plain English](https://github.com/hchiam/learning-aws-terms)
