@@ -152,6 +152,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Django](https://github.com/hchiam/learning-django)
 1. [Docker](https://github.com/hchiam/learning-docker)
 1. [docsify](https://github.com/hchiam/learning-docsify)
+1. [DSPy](https://github.com/hchiam/learning-DSPy)
 1. [ECMAScript browser modules](https://github.com/hchiam/learning-es-browser-modules) (using `import` in the browser)
 1. [Feathers](https://github.com/hchiam/learning-feathers)
 1. [Figma](https://github.com/hchiam/learning-figma) for interactive design prototypes and components (also has an Electron-powered desktop app), and [Bravo](https://github.com/hchiam/learning-bravo-studio) to turn them into native apps(!). (Here's [a quick summary of different design tools](https://github.com/hchiam/learning-figma/blob/main/README.md#a-quick-summary-of-other-design-tools).) For creating images like SVGs, I'd use [Photopea](https://github.com/hchiam/learning-photopea).
