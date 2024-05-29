@@ -105,6 +105,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Travis CI](https://github.com/hchiam/travistest)
    1. [Travis CI setup for Selenium IDE](https://github.com/hchiam/selenium-travis)
    1. [Travis CI setup example for desktop app (Electron.js) test with mocha](https://github.com/hchiam/anonymous-input)
+1. [trustedTypes](https://github.com/hchiam/learning-trustedTypes)
 1. [TypeScript](https://github.com/hchiam/learning-typescript)
 1. [UglifyJS](https://github.com/hchiam/learning-uglify)
 1. [VB (Visual Basic)](https://github.com/hchiam/learning-vb)
