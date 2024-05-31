@@ -50,6 +50,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. API examples:
    - https://github.com/hchiam/sourcefetch-server#sourcefetch-server
    - https://github.com/hchiam/timestamp-microservice-hchiam
+1. [grid](https://github.com/hchiam/grid) - 2D array helper class in JS
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 
