@@ -146,6 +146,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [CKEditor 5](https://github.com/hchiam/learning-ckeditor5)
 1. [CODEOWNERS](https://github.com/hchiam/learning-codeowners) files
    1. [All Contributors GitHub App](https://github.com/hchiam/learning-allcontributors)
+1. [compromise.js](https://github.com/hchiam/learning-compromisejs) for NLP
 1. [contributing.md](https://github.com/hchiam/learning-contributing.md) files
 1. [CORS](https://github.com/hchiam/learning-cors)
 1. [CSS/CSS3](https://github.com/hchiam/learning-css)
