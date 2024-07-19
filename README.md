@@ -166,6 +166,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
 1. [GitHub Copilot](https://github.com/hchiam/learning-github-copilot) (uses OpenAI Codex)
 1. [GitHub issue template](https://github.com/hchiam/learning-issue-template)
+1. [Godot](https://github.com/hchiam/learning-godot) (game engine)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [GSAP (GreenSock Animation Package)](https://github.com/hchiam/learning-gsap)
@@ -264,7 +265,6 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Elm](https://github.com/hchiam/learning-elm)
 1. [Flutter](https://github.com/hchiam/learning-flutter)
 1. [Framer](https://github.com/hchiam/learning-framer)
-1. [Godot](https://github.com/hchiam/learning-godot)
 1. [Google Charts](https://github.com/hchiam/learning-google-charts)
 1. [GraphQL](https://github.com/hchiam/learning-graphql)
 1. [gulp.js](https://github.com/hchiam/learning-gulp)
