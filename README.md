@@ -74,6 +74,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Flask](https://github.com/hchiam/learning-flask)
 1. [flying focus ring](https://github.com/hchiam/flying-focus) and [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap) and [morphing_button](https://github.com/hchiam/morphing_button)
 1. [GitHub Actions](https://github.com/hchiam/learning-github-actions)
+1. [Godot](https://github.com/hchiam/learning-godot) (game engine)
 1. [Google Apps Script](https://github.com/hchiam/learning-google-apps-script)s for things like Google Docs
 1. Google Assistant App templates: [Code Tutor](https://github.com/hchiam/code-tutor) or [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [Google Map Widget](https://github.com/hchiam/learning-google-map-widget)
@@ -168,7 +169,6 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
 1. [GitHub Copilot](https://github.com/hchiam/learning-github-copilot) (uses OpenAI Codex)
 1. [GitHub issue template](https://github.com/hchiam/learning-issue-template)
-1. [Godot](https://github.com/hchiam/learning-godot) (game engine)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
 1. [GSAP (GreenSock Animation Package)](https://github.com/hchiam/learning-gsap)
