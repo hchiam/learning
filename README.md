@@ -118,7 +118,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
    1. [vue-resource](https://codepen.io/hchiam/pen/ZrXgYo)
    1. [Vuetify](https://codepen.io/hchiam/pen/yvPLpb) templates
 1. [Web Components](https://github.com/hchiam/learning-web-components)
-1. [WebRTC](https://github.com/hchiam/learning-webrtc) - P2P (peer-to-peer) communication
+1. [WebRTC](https://github.com/hchiam/learning-webrtc) - P2P (peer-to-peer) communication (tried PeerJS, NetplayJS, trystero)
 1. Example [Yeoman generator](https://github.com/hchiam/generator-hchiam-learning) [`generator-hchiam-learning`](https://www.npmjs.com/package/generator-hchiam-learning?activeTab=readme) which creates another of my [learning repo](https://GitHub.com/hchiam/learning-something)s.
    - or just use [my template repo `learning-template`](https://github.com/hchiam/learning-template) by clicking the green button that says "Use this template"
 
