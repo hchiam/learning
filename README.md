@@ -103,6 +103,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
 1. [surge](https://github.com/hchiam/learning-surge)
 1. [Tape](https://github.com/hchiam/learning-tape)
+1. [Tauri](https://github.com/hchiam/learning-tauri)
 1. [Teachable Machine](https://github.com/hchiam/learning-teachablemachine) to quickly prototype an ML model (gather, train, export)
 1. [TinyLlama](https://github.com/hchiam/learning-TinyLlama) - another small open-sourced GPT/LLM
 1. [token counters](https://github.com/hchiam/learning-llm-token-counter) for LLMs, like for [prompt engineering](https://github.com/hchiam/learning-prompt-eng)
