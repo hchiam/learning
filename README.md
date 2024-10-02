@@ -21,8 +21,8 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [how-draggable](https://github.com/hchiam/how-draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggableAndEditable.js)
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. A minimal [notepad](https://github.com/hchiam/notepad) in your browser (automatically restores, and works offline after your first visit).
+1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) (now works in mobile!) and [Console Log Element](https://github.com/hchiam/console-log-element) (now works in mobile too!) and [togglavatar](https://github.com/hchiam/togglavatar)
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
-1. Firefox add-ons like [Check All Scripts with URLVoid](https://github.com/hchiam/urlvoid-firefox-extension) and [Console Log Element](https://github.com/hchiam/console-log-element) and [togglavatar](https://github.com/hchiam/togglavatar)
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
 1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: https://html-template-generator.surge.sh
