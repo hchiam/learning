@@ -18,6 +18,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 ## Projects: things that I've built or maintain
 
 1. Besides the rest of this list, I contribute to other people's projects, like: [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
+1. [how-draggable](https://github.com/hchiam/how-draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggableAndEditable.js)
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. A minimal [notepad](https://github.com/hchiam/notepad) in your browser (automatically restores, and works offline after your first visit).
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
@@ -37,12 +38,11 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. Convenience code I use in [my CodePen.io Front-End demos](https://codepen.io/hchiam), such as:
    - [my personal CSS boilerplate](https://github.com/hchiam/css-boilerplate)
    - [codepen-full-page-link](https://github.com/hchiam/codepen-full-page-link)
-   - [a Chrome check message](https://github.com/hchiam/is-chrome)
    - [copyToClipboard.js](https://github.com/hchiam/clipboard)
+   - [a Chrome check message](https://github.com/hchiam/is-chrome)
    - [prevent-link-window-opener-attacks.js](https://cdn.jsdelivr.net/gh/hchiam/learning-js@master/prevent-link-window-opener-attacks.js)
    - [flying focus ring](https://cdn.jsdelivr.net/gh/hchiam/flying-focus)
    - [keyboard focus trap](https://github.com/hchiam/keyboard-focus-trap)
-   - [how-draggable](https://github.com/hchiam/how-draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggableAndEditable.js)
    - [morphing_button](https://github.com/hchiam/morphing_button)
 1. [Machine Learning](https://github.com/hchiam/machineLearning) examples and [other ML repos and notes](https://github.com/hchiam/learning-ml), like a [genetic algorithm](https://github.com/hchiam/cogLang-geneticAlgo) to generate a [conlang](https://github.com/hchiam/cognateLanguage), or [text-similarity-test](https://github.com/hchiam/text-similarity-test) built using [TensorFlow.js](https://github.com/hchiam/learning-tensorflow) or [PyTorch](https://github.com/hchiam/learning-pytorch) demos. Or like experimenting with [comment analysis](https://github.com/hchiam/comment-analysis) using [tfjs, USE, and UMAP (as opposed to t-SNE or PCA](https://github.com/hchiam/learning-tfjs-umap).
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
