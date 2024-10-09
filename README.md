@@ -188,6 +188,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [localForage](https://github.com/hchiam/learning-localForage)
 1. [localtunnel](https://github.com/hchiam/learning-localtunnel)
 1. [Lodash](https://github.com/hchiam/learning-lodash) and [Underscore.js](https://github.com/hchiam/learning-underscore)
+1. [Lottie](https://github.com/hchiam/learning-lottie) files for animations
 1. [Material Design Components for the Web](https://github.com/hchiam/learning-material-design-components) (CDN and NPM/Webpack setup)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
 1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
