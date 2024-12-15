@@ -241,6 +241,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [WebSocket](https://github.com/hchiam/learning-websocket)
 1. [yargs](https://github.com/hchiam/learning-yargs)
 1. [yarn](https://github.com/hchiam/learning-yarn)
+1. [Zdog](https://github.com/hchiam/learning-zdog) - pseudo-3D for canvas and SVG
 
 </details>
 
