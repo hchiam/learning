@@ -54,6 +54,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
 1. [trysterollup](https://github.com/hchiam/trysterollup) game controller wrapper around Trystero
+1. [canvas-converse](https://github.com/hchiam/canvas-converse) - to more easily "converse" with the canvas API.
 
 </details>
 
