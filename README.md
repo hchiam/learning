@@ -306,6 +306,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
 1. [WebGL](https://github.com/hchiam/learning-webgl)
 1. [WebGPU](https://github.com/hchiam/learning-webgpu)
+1. [YDF (Yggdrasil Decision Forests)](https://github.com/hchiam/learning-ydf) - ML
 
 </details>
 
