@@ -324,6 +324,6 @@ javascript: (function () {
 
 I use bash scripts to generate [new learning repos](https://github.com/hchiam/learning-bash-scripts/blob/main/gh-cli-create-learning-repo-from-template.sh) and sometimes [new project repos](https://github.com/hchiam/learning-bash-scripts/blob/main/gh-cli-create-project-repo-from-template.sh).
 
-I'm also on [CodePen.io](https://codepen.io/hchiam) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [LeetCode.com](https://leetcode.com/hchiam/) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
+I'm also on [CodePen.io](https://codepen.io/hchiam) and [itch.io](https://hchiam.itch.io) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [LeetCode.com](https://leetcode.com/hchiam/) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam)
 
 Auto-generated GitHub résumé: https://resume.github.io/?hchiam
