@@ -69,6 +69,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Content Security Policy (CSP)](https://github.com/hchiam/learning-csp)
 1. [convenience](https://github.com/hchiam/convenience) template repo for getting started faster on creating your own convenience scripts or packages (this template repo comes with issue template, PR template, contributor reminder, codeowner, etc. files already set up for better collaboration on GitHub). Like my [learning-template](https://github.com/hchiam/learning-template) or my [project-template](https://github.com/hchiam/project-template).
 1. [Custom VS Code (Visual Studio Code) linter](https://github.com/hchiam/custom-vscode-linter)
+   - or a more recent VSCode extension: ["Hello deepseek-vscode"](https://github.com/hchiam/deepseek-vscode)
 1. [Cypress](https://github.com/hchiam/learning-cypress)
 1. [Electron](https://github.com/hchiam/learning-electron) for building desktop apps using web technologies (JS/HTML/CSS)
 1. [esbuild](https://github.com/hchiam/learning-esbuild)
