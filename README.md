@@ -101,6 +101,7 @@ Or bookmark this search link: <https://github.com/hchiam?tab=repositories&q=lear
 1. [Python](https://github.com/hchiam/learning-python) practice
    1. [Node.js plus Python talking to each other](https://github.com/hchiam/node-plus-python)
 1. Record automated tests with [Selenium IDE](https://github.com/hchiam/learning-selenium-ide) chrome extension, or the slightly-better [Katalon Recorder](https://github.com/hchiam/learning-katalon) chrome extension (which can also export code and other formats).
+1. [robocopy](https://github.com/hchiam/learning-robocopy) (and Total Commander?)
 1. [serverless API functions with CloudFlare workers](https://github.com/hchiam/learning-cloudflare)
 1. [Subresource Integrity (SRI)](https://github.com/hchiam/learning-sri)
 1. [surge](https://github.com/hchiam/learning-surge)
