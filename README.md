@@ -1,4 +1,4 @@
-# [ <img align="center" src="animation.svg" width="100%" height="60px" alt="Learning"/> ](https://hchiam.com)
+# [<img align="center" src="animation.svg" width="100%" height="60px" alt="Learning"/>](https://hchiam.com)
 
 Links to what [I'm](https://hchiam.com) learning. Languages. Libraries. Frameworks. Etc.
 
@@ -8,9 +8,9 @@ Chances are, you can guess the URL of each repo: `https://github.com/hchiam/lear
 
 Or you can browse this README file.
 
-Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learning+
+Or bookmark this search link: <https://github.com/hchiam?tab=repositories&q=learning+>
 
-## Click to expand:
+## Click to expand
 
 <details>
 <summary>Projects</summary>
@@ -25,7 +25,7 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. Chrome extensions like [a linter](https://github.com/hchiam/in-browser-style-linter), [quick menu search](https://github.com/hchiam/quick-menu-search), [quick selection search](https://github.com/hchiam/select-hover-search), and [experimental test automator](https://github.com/hchiam/in-browser-test-automator)
 1. [\_2DNote](https://github.com/hchiam/_2DNote) to make visuals with 2D coordinates more accessible to people who are blind.
 1. [Google Voice Assistant](https://github.com/hchiam/learning-google-assistant) apps: [Code Tutor](https://github.com/hchiam/code-tutor) and [Mental Temperature Converter](https://github.com/hchiam/mental-temperature-converter)
-1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: https://html-template-generator.surge.sh
+1. [`html-template-generator`](https://github.com/hchiam/html-template-generator) and demo site: <https://html-template-generator.surge.sh>
 1. [`stylable-select`](https://github.com/hchiam/stylable-select)
 1. [random code tips](https://github.com/hchiam/random-code-tips)
 1. [deps](https://github.com/hchiam/deps), a CLI tool that generates a dependency graph (as an interactive SVG). Just give it a file/folder as a starting point.
@@ -48,8 +48,8 @@ Or bookmark this search link: https://github.com/hchiam?tab=repositories&q=learn
 1. [Atom plugin](https://github.com/hchiam/sourcefetch-tutorial) tutorial and a [server](https://github.com/hchiam/sourcefetch-server) based on it to seek code snippets for you
 1. [HTML template generator](https://github.com/hchiam/html-template-generator)
 1. API examples:
-   - https://github.com/hchiam/sourcefetch-server#sourcefetch-server
-   - https://github.com/hchiam/timestamp-microservice-hchiam
+   - <https://github.com/hchiam/sourcefetch-server#sourcefetch-server>
+   - <https://github.com/hchiam/timestamp-microservice-hchiam>
 1. [grid](https://github.com/hchiam/grid) - 2D array helper class in JS
 1. [Glitch.com Backend/server demos](https://glitch.com/@hchiam) like [this Node.js server](https://github.com/hchiam/bible-verse-listener) and [this URL shortener microservice](https://minilink.glitch.me/)
 1. Example HTML5 web apps/games (_NOTE: old_): [https://github.com/hchiam/embeddedWebApps](https://github.com/hchiam/embeddedWebApps)
@@ -211,8 +211,8 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [PWA + Bluetooth](https://github.com/hchiam/learning-pwa-bluetooth)
 1. [Qwik](https://github.com/hchiam/learning-qwik)
 1. [React](https://github.com/hchiam/learning-reactjs) and [Redux](https://github.com/hchiam/learning-redux)
-   1. Small example of adding data to Redux state container: https://github.com/hchiam/react-jexcel-redux
-   1. Bigger example with Redux and more: https://github.com/hchiam/chat-app-fcc-react-redux
+   1. Small example of adding data to Redux state container: <https://github.com/hchiam/react-jexcel-redux>
+   1. Bigger example with Redux and more: <https://github.com/hchiam/chat-app-fcc-react-redux>
    1. [React Router](https://github.com/hchiam/learning-react-router)
    1. [React Native](https://github.com/hchiam/learning-react-native)
    1. Minimal [React Frontend + Express Backend](https://github.com/hchiam/learning-react-fe-and-be) test
@@ -279,7 +279,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Helmet](https://github.com/hchiam/learning-helmet)
 1. [Heroku](https://github.com/hchiam/python-getting-started)
    - --> my first working Heroku-hosted app [here](https://github.com/hchiam/galeria)
-   - https://github.com/hchiam/test-app
+   - <https://github.com/hchiam/test-app>
 1. [Immer](https://github.com/hchiam/learning-immer/blob/master/README.md) to change immutable state more easily.
 1. [general software interview problem solving skills](https://github.com/hchiam/learning-interviews)
 1. [Karma](https://github.com/hchiam/learning-karma)
@@ -327,4 +327,4 @@ I use bash scripts to generate [new learning repos](https://github.com/hchiam/le
 
 I'm also on [CodePen.io](https://codepen.io/hchiam) and [itch.io](https://hchiam.itch.io) and [Glitch.com](https://glitch.com/@hchiam) and [CodeSandbox.io](https://codesandbox.io/u/hchiam/sandboxes) and [LeetCode.com](https://leetcode.com/hchiam/) and [Bitbucket.org](https://bitbucket.org/hchiam) and [Repl.it](https://repl.it/@hchiam) and [HuggingFace.co](https://huggingface.co/hchiam)
 
-Auto-generated GitHub résumé: https://resume.github.io/?hchiam
+Auto-generated GitHub résumé: <https://resume.github.io/?hchiam>
