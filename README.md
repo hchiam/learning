@@ -194,6 +194,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [Lottie](https://github.com/hchiam/learning-lottie) files for animations
 1. [Material Design Components for the Web](https://github.com/hchiam/learning-material-design-components) (CDN and NPM/Webpack setup)
 1. [MEAN](https://github.com/hchiam/webDevMEANStack)
+1. [mermaid](https://github.com/hchiam/learning-mermaid)
 1. [MERN Stack](https://github.com/hchiam/learning-mern-stack) = **M**ongoDB, **E**xpress, **R**eact, and **N**ode.js (but I'm also using Mongoose, MongoDB Atlas, cors, dotenv, nodemon, eslint, eslint-config-google, bootstrap, react-router-dom, react-datepicker, axios, etc.).
 1. [Mitosis](https://github.com/hchiam/learning-mitosis)
 1. [mocha chai](https://github.com/hchiam/boilerplate-mochachai)
