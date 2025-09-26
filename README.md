@@ -6,7 +6,7 @@ You might find my Projects and Templates helpful for kickstarting your own learn
 
 Chances are, you can guess the URL of each repo: `https://github.com/hchiam/learning-...`
 
-Or you can browse this README file.
+Or you can browse this README file. `Ctrl`+`F` or `command`+`f` seems to immediately expand the details to show you matches.
 
 Or bookmark this search link: <https://github.com/hchiam?tab=repositories&q=learning+>
 
