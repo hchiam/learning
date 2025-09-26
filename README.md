@@ -144,6 +144,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [AngularJS](https://github.com/hchiam/learning-angularjs), [Angular 8](https://github.com/hchiam/learning-angular8), and [Angular](https://github.com/hchiam/learning-angular)
 1. [ANNOY](https://github.com/hchiam/learning-annoy) for [ML](https://github.com/hchiam/learning-ml) nearest neighbours of vectors
 1. [AOS](https://github.com/hchiam/learning-aos) ("Animate On Scroll" library)
+1. [Auggie](https://github.com/hchiam/learning-auggie) CLI
 1. [AutoML](https://github.com/hchiam/learning-automl) with AutoML Edge model exported from Vertex AI API of Google Cloud Platform.
 1. [AVIF](https://github.com/hchiam/learning-avif) compressed image format
 1. [axios](https://github.com/hchiam/learning-axios)
