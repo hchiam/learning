@@ -172,7 +172,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [My solutions for FreeCodeCamp](https://www.freecodecamp.org/hchiam) (UPDATE: no longer publicly available)
 1. [Gatsby.js](https://github.com/hchiam/learning-gatsby)
 1. [GitHub CLI `gh`](https://github.com/hchiam/learning-gh)
-1. [GitHub Copilot](https://github.com/hchiam/learning-github-copilot) (uses OpenAI Codex)
+1. [GitHub Copilot](https://github.com/hchiam/learning-github-copilot) (uses OpenAI Codex) and [GitHub Copilot CLI](https://github.com/hchiam/learning-github-copilot/tree/main?tab=readme-ov-file#github-copilot-cli)
 1. [GitHub issue template](https://github.com/hchiam/learning-issue-template)
 1. [Golang](https://github.com/hchiam/learn-golang)
 1. [Google Closure Library](https://github.com/hchiam/learning-closure) maybe for things like `goog.structs.Heap()` for use in [practice problems](https://github.com/hchiam/learning-js/tree/master/more-like-interview-questions) that I practice with [eslint and jest](https://github.com/hchiam/eslint-and-jest). It does so many helpful things, but it’s also a FE UI library like [Backbone.js](https://github.com/hchiam/learning-backbone).
