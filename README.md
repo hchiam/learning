@@ -306,6 +306,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [shadow DOM](https://github.com/hchiam/learning-shadow-dom)
 1. [SuperTokens](https://github.com/hchiam/learning-supertokens)
 1. [technical writing](https://github.com/hchiam/learning-tech-writing)
+2. [Transformers.js](https://github.com/hchiam/learning-transformersjs)
 1. [Vite](https://github.com/hchiam/learning-vite)
 1. [VS Code productivity tips](https://www.youtube.com/watch?v=ifTF3ags0XI)
 1. [Web Assembly (WASM)](https://github.com/hchiam/learning-wasm)
