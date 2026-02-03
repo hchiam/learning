@@ -181,7 +181,7 @@ I'm also learning on sites like [freeCodeCamp](https://www.freecodecamp.org/hchi
 1. [gzip](https://github.com/hchiam/learning-gzip)
 1. [HTML/HTML5](https://github.com/hchiam/learning-html)
 1. [HTTP status codes](https://github.com/hchiam/learning-http-status-codes)
-1. [HTTPS server](https://github.com/hchiam/learning-https-server)
+1. [HTTPS server](https://github.com/hchiam/learning-https-server) or rather [ngrok](https://github.com/hchiam/learning-ngrok)
 1. [Hugging Face](https://github.com/hchiam/learning-huggingface) - for trying out [ML](https://github.com/hchiam/learning-ml) models quickly
 1. [jExcel](https://github.com/hchiam/learning-jExcel)
 1. [jquery-i18next](https://github.com/hchiam/learning-jquery-i18next)
