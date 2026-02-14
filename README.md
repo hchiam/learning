@@ -18,6 +18,7 @@ Or bookmark this search link: <https://github.com/hchiam?tab=repositories&q=lear
 ## Projects: things that I've built or maintain
 
 1. Besides the rest of this list, I contribute to other people's projects, like: [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
+1. [lightweight-inspector](https://github.com/hchiam/lightweight-inspector): a minimal js/css/html inspector that can work in mobile browsers, with the whole code easily readable on GitHub.
 1. [how-draggable](https://github.com/hchiam/how-draggable): make any element [draggable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggable.js), or [draggable and editable](https://cdn.jsdelivr.net/gh/hchiam/how-draggable@main/makeElementDraggableAndEditable.js)
 1. A minimal [slides](https://github.com/hchiam/slides) editor and presenter in your browser.
 1. A minimal [notepad](https://github.com/hchiam/notepad) in your browser (automatically restores, and works offline after your first visit).
